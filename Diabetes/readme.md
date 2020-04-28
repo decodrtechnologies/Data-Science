@@ -128,15 +128,15 @@ Project Link: [https://github.com/decodrtechnologies/Data-Science](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/decodrtechnologies/Data-Science.svg?style=flat-square
 [contributors-url]: https://github.com/decodrtechnologies/Data-Science/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/decodrtechnologies/Data-Science/decodrtechnologies/Data-Science.svg?style=flat-square
 [forks-url]: https://github.com/decodrtechnologies/Data-Science/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/decodrtechnologies/Data-Science.svg?style=flat-square
 [stars-url]: https://github.com/decodrtechnologies/Data-Science/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/decodrtechnologies/Data-Science.svg?style=flat-square
 [issues-url]: https://github.com/decodrtechnologies/Data-Science/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/decodrtechnologies/Data-Science.svg?style=flat-square
 [license-url]: https://github.com/decodrtechnologies/Data-Science/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/suraj-tiwari-9867a7164/
