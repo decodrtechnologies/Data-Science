@@ -68,8 +68,11 @@ It is a binary classification problem, for a given pair of questions we need to 
 
 <h1>Run</h1>
     - To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
+    
     - After making sure you have that, you can run from a terminal or cmd next lines : 
+    
     - ipython notebook Business Problem Statement.ipynb
+    
     - ipython notebook Data-Pre-Processing-EDA-Visualization.ipynb
     - ipython notebook Word-To-Vectors.ipynb
     - ipython notebook Machine Learning Models .ipynb
