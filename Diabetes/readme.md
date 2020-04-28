@@ -1,31 +1,19 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Dataset License][https://creativecommons.org/publicdomain/zero/1.0/]][]
-[![LinkedIn][linkedin-shield]]["https://www.linkedin.com/in/suraj-tiwari-9867a7164"]
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://images-prod.healthline.com/hlcmsresource/images/topic_centers/1953-Difference_Type1_Type2_Diabetes-732x549-thumbnail.jpg" alt="Logo" width="80" height="80">
+    <img src="https://images-prod.healthline.com/hlcmsresource/images/topic_centers/1953-Difference_Type1_Type2_Diabetes-732x549-thumbnail.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Diabetes Classification using KNN</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+  Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells. 
+  In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
