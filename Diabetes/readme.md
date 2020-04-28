@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
 
 ### Built With
 The entire coding part is done using:
@@ -73,7 +73,10 @@ Important python libraries to be used:
 ## Getting Started
 
 
+
 ### Prerequisites
+
+Basic knowledge of python, data visualtisation and K-nearest neighbour technique.
 
 ### Installation
  
@@ -94,6 +97,13 @@ git clone https://github.com/github_username/repo.git
 <!-- ROADMAP -->
 ## Roadmap
 
+We'll follow OSEMN Pipeline: 
+
+    O - Obtaining our data
+    S - Scrubbing / Cleaning our data
+    E - Exploring / Visualizing our data will allow us to find patterns and trends
+    M - Modeling our data will give us our predictive power as a wizard
+    N - INterpreting our data
 
 
 
@@ -130,7 +140,7 @@ Project Link: [https://github.com/decodrtechnologies/Data-Science](https://githu
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/decodrtechnologies/Data-Science.svg?style=flat-square
 [contributors-url]: https://github.com/decodrtechnologies/Data-Science/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/decodrtechnologies/Data-Science/decodrtechnologies/Data-Science.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/decodrtechnologies/Data-Science.svg?style=flat-square
 [forks-url]: https://github.com/decodrtechnologies/Data-Science/network/members
 [stars-shield]: https://img.shields.io/github/stars/decodrtechnologies/Data-Science.svg?style=flat-square
 [stars-url]: https://github.com/decodrtechnologies/Data-Science/stargazers
