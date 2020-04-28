@@ -1,0 +1,59 @@
+# Houses_Kc_Price_Prediction
+# PROJECT-Business Problem:
+House Data Prediction Using Multiple Regression and Backward Elimination Technique
+# DESCRIPTION:
+Here in this business problem, we want to find out the prices of Houses in King County,USA. Here we are given many parameters which directly influence the prices of the houses. We need to find the best quoted value for the price considering all the dependent parameters and we need to observe which parameters plays a key role in price determination of the houses.
+# Since this is a problem of PREDICTION ANALYSIS we will use MULTIPLE REGRESSION ANALYSIS WITH BACKWARD ELIMINATION TECHNIQUE.
+# What is Multiple Regression and Backward Elimination Technique.
+MULTIPLE REGRESSION: Multiple regression is an extension of simple linear regression. It is used when we want to predict the value of an dependent variable based on the value of two or more other independent variables. The variable we want to predict is called the dependent variable (or sometimes, the outcome, target or criterion variable).
+BACKWARD ELIMINATION TECHNIQUE:Backward elimination is a feature selection technique while building a machine learning model. It is used to remove those features(independent variables) that do not have a significant effect on the dependent variable or prediction of output.
+# Steps involved in backward Elimination Technique:
+1.) Select a significance level to stay in the model (eg. SL = 0.05)
+2.) Fit the model with all possible independent variables.
+3.)Consider the independent variable with the highest P-value. If P>SL, go to point 4.).
+4.)Remove this independent variable .
+5.)Fit the model without this variable and repeat the step 3.) until the condition becomes false.
+
+# DATA
+The kc_house_data excel file contains our complete dataset. This data is colleceted through surveys and by estimation of analysts.
+We have total 21613 historical data prices for houses in USA.
+# Independent Variables/Features:
+1.)	id
+2.)	date
+3.)	bedrooms
+4.)	bathrooms
+5.)	sqft_living
+6.)	sqft_lot
+7.)	floors
+8.)	waterfront
+9.)	view
+10.) condition
+11.)	grade
+12.)	sqft_above
+13.)	sqft_basement
+14.)	yr_built
+15.)	yr_renovated
+16.)	zipcode
+17.)	lat
+18.)	long
+19.)	sqft_living15
+20.)	sqft_lot15
+# Dependent Variable - PRICE
+
+We have test data whose size is one-third of our training dataset.
+The dataset is uniform and consitent and the data have ratio scale of measurement.
+
+# Data Pre-Processing:
+Load all the relevat python libraries.
+Load the excel file kc_house_data.
+There were some null values in tha dataset that have been removed , this is an important step so that regression model can be run successfully.
+After that we observe that id and date column does not play a key role in price determination , so we need to drop these two columns.
+Now our data is clean and ready to be processed under Regression Model in Python.
+
+# EDA (Exploratory Data Analysis):
+For EDA , Seaborn Data Visualization Library is used which is based on Matplotlib . Several distributions and plots have been depicted to understand the pattern of housing industry.
+We have used scikit-learn library for running regression model.
+And Finally we have used OLS (Ordinary Least Square Method) for our regression Model. For this we have used Statsmodels Module, which is built on on top of numerical library Numpy. We get a Final Model after running a regression Model with an excellent R squared value of 0.905.
+# Our Model is consistent with an excellent R squared value of 0.905. This clearly shows that most of the variation in the prices are very well expalined by these independent features. We have retained all those features whose p value < 0.05.
+
+
