@@ -1,7 +1,5 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/suraj-tiwari-9867a7164/]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -11,8 +9,8 @@
 
   <h3 align="center">Diabetes Classification using KNN</h3>
 
-  <p align="center">
-  Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells. 
+  <p align="justify">
+  Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells.<br>
   In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
     <br />
     <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes"><strong>Explore the docs »</strong></a>
