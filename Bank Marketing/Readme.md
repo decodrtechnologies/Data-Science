@@ -21,38 +21,38 @@ A Term deposit is a deposit that a bank or a financial institurion offers with a
 
 ## Outline:
 
-### A. Attribute Descriptions
-I. Bank client data
-II. Related with the last contact of the current campaign
-III. Other attributes
+### A. Attribute Descriptions:
+  I. Bank client data
+  II. Related with the last contact of the current campaign
+  III. Other attributes
 
 ### B. Structuring the data:
-I. Overall Analysis of the Data
-II. Data Structuring and Conversion
+  I. Overall Analysis of the Data
+  II. Data Structuring and Conversion
 
 ### C. Exploratory Data Analysis (EDA)
-I. Accepted vs Rejected Term Deposits
-II. Distribution Plots
+  I. Accepted vs Rejected Term Deposits
+  II. Distribution Plots
 
 ### D. Different Aspects of the Analysis:
-I. Months of Marketing Activty
-II. Seasonalities
-III. Number of Calls to the potential client
-IV. Age of the Potential Clients
-V. Types of Occupations that leads to more term deposits suscriptions
+  I. Months of Marketing Activty
+  II. Seasonalities
+  III. Number of Calls to the potential client
+  IV. Age of the Potential Clients
+  V. Types of Occupations that leads to more term deposits suscriptions
 
 ### E. Correlations that impacted the decision of Potential Clients. 
-I. Analysis of our Correlation Matrix
-II. Balance Categories vs Housing Loans
-III. Negative Relationship between H.Loans and Term Deposits
+  I. Analysis of our Correlation Matrix
+  II. Balance Categories vs Housing Loans
+  III. Negative Relationship between H.Loans and Term Deposits
 
 ### F. Classification Model
-I. Introduction
-II. Stratified Sampling
-III. Classification Models
-IV. Confusion Matrix
-V. Precision and Recall Curve
-VI. Feature Importances Decision Tree C.
+  I. Introduction
+  II. Stratified Sampling
+  III. Classification Models
+  IV. Confusion Matrix
+  V. Precision and Recall Curve
+  VI. Feature Importances Decision Tree C.
 
 ### G. Next Campaign Strategy
-I. Actions the Bank should Consider
+  I. Actions the Bank should Consider
