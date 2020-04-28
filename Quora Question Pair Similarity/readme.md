@@ -52,15 +52,6 @@ This empowers people to learn from each other and to better understand the world
   
 <h2>Machine Leaning Problem Type</h2>
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
-
-<h2>Performance Metric</h2>
-- Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
-
-- Metric(s):
-  
-  - log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
-  - Binary Confusion Matrix
-
   
 <h1>Install</h1>
 - Supported Python version
