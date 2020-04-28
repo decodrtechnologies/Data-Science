@@ -55,7 +55,9 @@ It is a binary classification problem, for a given pair of questions we need to 
 
 <h2>Performance Metric</h2>
 - Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
+
 - Metric(s):
+  
   - log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
   - Binary Confusion Matrix
 
