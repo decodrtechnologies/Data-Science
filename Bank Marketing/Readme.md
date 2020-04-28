@@ -1,11 +1,9 @@
-Bank Marketing DataSet - Intelligent Targeting:
+Bank Marketing Dataset
 Marketing Introduction:
-
-The process by which companies create value for customers and build strong customer relationships in order to capture value from customers in return.
-
-Kotler and Armstrong (2010).
+The process by which companies create value for customers and build strong customer relationships in order to capture value from customers in return. - Kotler and Armstrong (2010).
 
 Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction. Nevertheless, there are different variables that determine whether a marketing campaign will be successful or not. There are certain variables that we need to take into consideration when making a marketing campaign.
+
 The 4 Ps:
 
 1) Segment of the Population: To which segment of the population is the marketing campaign going to address and why? This aspect of the marketing campaign is extremely important since it will tell to which part of the population should most likely receive the message of the marketing campaign.
@@ -42,7 +40,8 @@ III. Number of Calls to the potential client
 IV. Age of the Potential Clients
 V. Types of Occupations that leads to more term deposits suscriptions
 
-E. Correlations that impacted the decision of Potential Clients. I. Analysis of our Correlation Matrix
+E. Correlations that impacted the decision of Potential Clients. 
+I. Analysis of our Correlation Matrix
 II. Balance Categories vs Housing Loans
 III. Negative Relationship between H.Loans and Term Deposits
 
