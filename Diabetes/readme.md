@@ -1,3 +1,11 @@
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -10,7 +18,8 @@
   <p align="justify">
   Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells.<br>
   In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
-    <br />
+    <br /></p>
+  <p align="center">
     <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -44,8 +53,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -65,14 +72,8 @@ Important python libraries to be used:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
  
@@ -80,26 +81,19 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/github_username/repo.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
+2. Install Jupyter notebook
+3. Install Python packages
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
 
 
 
@@ -126,7 +120,7 @@ Pima Indian Diabetes Dataset used in the problem is available open source on <a 
 <!-- CONTACT -->
 ## Contact
 
-Suraj Tiwari - [@__Photon](stsuraj01@gmail.com) - email
+Suraj Tiwari - [@stsuraj01@gmail.com]
 
 Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science/)
 
@@ -135,15 +129,15 @@ Project Link: [https://github.com/decodrtechnologies/Data-Science](https://githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/decodrtechnologies/Data-Science/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/decodrtechnologies/Data-Science/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/decodrtechnologies/Data-Science/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/decodrtechnologies/Data-Science/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/decodrtechnologies/Data-Science/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/suraj-tiwari-9867a7164/
 [product-screenshot]: images/screenshot.png
