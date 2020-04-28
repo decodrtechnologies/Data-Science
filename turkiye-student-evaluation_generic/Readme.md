@@ -90,7 +90,7 @@ K means clustering algorithm is a very common unsupervised learning algorithm. T
 
 K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. It is popular for cluster analysis in data mining. k-means clustering minimizes within-cluster variances (squared Euclidean distances), but not regular Euclidean distances, which would be the more difficult Weber problem: the mean optimizes squared errors, whereas only the geometric median minimizes Euclidean distances.
 
-<img src ="https://thatware.co/wp-content/uploads/2019/03/k-mean-clustering.png" height="500" width="500">
+<img src ="https://thatware.co/wp-content/uploads/2019/03/k-mean-clustering.png" height="5000" width="4000">
 ## Observation:-
 After applying the clustering algorithm we observe 3 different types of clusters based on the data. Which signifies that there are three different categories of student.
 
