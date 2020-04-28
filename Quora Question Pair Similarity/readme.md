@@ -11,14 +11,15 @@ This empowers people to learn from each other and to better understand the world
 - To check weather predicting pair of questions are duplicates or not.
 - Source : https://www.kaggle.com/c/quora-question-pairs
 
-<h2>Real world/Business Objectives and Constraints<h2>
+<h2>Real world/Business Objectives and Constraints</h2>
 
 - The cost of a mis-classification can be very high.
 - You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
 - No strict latency concerns.
 - Interpretability is partially important.
 
-<h2>Data Description<h2>
+<h2>Data Description</h2>
+  
 - The goal of this competition is to predict which of the provided pairs of questions contain two questions with the same meaning. 
 - The ground truth is the set of labels that have been supplied by human experts. 
 - The ground truth labels are inherently subjective, as the true meaning of sentences can never be known with certainty.
@@ -26,13 +27,15 @@ This empowers people to learn from each other and to better understand the world
 - As a result, the ground truth labels on this dataset should be taken to be 'informed' but not 100% accurate, and may include incorrect labeling. 
 - We believe the labels, on the whole, to represent a reasonable consensus, but this may often not be true on a case by case basis for individual items in the dataset.
   
-<h2>Data fields<h2>
+<h2>Data fields</h2>
+
 - id - the id of a training set question pair
 - qid1, qid2 - unique ids of each question (only available in train.csv)
 - question1, question2 - the full text of each question
 - is_duplicate - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise. 
 
-<h2>Data Overview<h2>
+<h2>Data Overview</h2>
+
 - All data file sources avilable on - https://www.kaggle.com/c/quora-question-pairs/data
 - Data will be in a file Train.csv
 - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
