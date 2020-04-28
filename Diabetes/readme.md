@@ -25,9 +25,9 @@
     <br />
     <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes">View Demo</a>
     ·
-    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes/issues">Report Bug</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/issues">Report Bug</a>
     ·
-    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes/issues">Request Feature</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,19 +41,29 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
+In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. The dataset consists of 768 rows with 8 characteristics and an outcome, in particular:
+
+    Number of times pregnant.
+    Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
+    Diastolic blood pressure (mm Hg)
+    Triceps skin fold thickness (mm)
+    2-Hour serum insulin (mu U/ml)
+    Body mass index (weight in kg/(height in m)^2)
+    Diabetes pedigree function
+    Age
+    Outcome
+    
+Now, given this dataset, our main task will be to train a machine learning model that is able to classify whether a pregnent woman is diabetic or not.
 
 ### Built With
 The entire coding part is done using:
@@ -76,7 +86,7 @@ Important python libraries to be used:
 
 ### Prerequisites
 
-Basic knowledge of python, data visualtisation and K-nearest neighbour technique.
+Basic knowledge of python, data visualtisation libraries and K-nearest neighbour technique is required.
 
 ### Installation
  
@@ -86,12 +96,6 @@ git clone https://github.com/github_username/repo.git
 ```
 2. Install Jupyter notebook
 3. Install Python packages
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
 
 
 <!-- ROADMAP -->
@@ -105,7 +109,7 @@ We'll follow OSEMN Pipeline:
     M - Modeling our data will give us our predictive power as a wizard
     N - INterpreting our data
 
-
+After we are able to complete above steps and we have the model, the task at the end will be to tune hyperparameter to optimise our model's performance.
 
 <!-- CONTRIBUTING -->
 ## Contributing
