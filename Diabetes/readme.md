@@ -15,14 +15,14 @@
   Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells. 
   In this project, we'll be classifying diabetes using Pima Indian diabetes dataset available on Kaggle. 
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/Diabetes/issues">Request Feature</a>
   </p>
 </p>
 
