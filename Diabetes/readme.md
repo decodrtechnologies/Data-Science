@@ -1,5 +1,3 @@
-
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/suraj-tiwari-9867a7164/]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -46,18 +44,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email`
 
 
 ### Built With
+The entire coding part is done using:
+* [Jupyter Notebook](https://jupyter.org/)
 
-* []()
-* []()
-* []()
+Important python libraries to be used:
+* [numpy](https://anaconda.org/anaconda/numpy)
+* [pandas](https://anaconda.org/anaconda/pandas)
+* [matplotlib](https://anaconda.org/anaconda/matplotlib)
+* [seaborn](https://anaconda.org/anaconda/seaborn)
+* [sklearn](https://anaconda.org/anaconda/sklearn)
+
 
 
 
@@ -68,7 +69,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
@@ -119,16 +119,16 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Pima Indian Diabetes Dataset used in the problem is available open source on <a href = "https://www.kaggle.com/uciml/pima-indians-diabetes-database">Kaggle</a> and the license is available at this <a href = "https://creativecommons.org/publicdomain/zero/1.0/"> link </a>.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Suraj Tiwari - [@__Photon](stsuraj01@gmail.com) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science/)
 
 
 
