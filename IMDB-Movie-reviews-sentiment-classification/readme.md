@@ -1,9 +1,11 @@
 # IMDB-Movie-reviews-sentiment-classification
 
 
-In this project, I implemented Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) using __Keras__.
+In this project, You have to implemente Long short-term memory (LSTM)  an artificial recurrent neural network (RNN) using __Keras__.
 
 ## Dataset
+
+The data set can be downloaded by following link [Data](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 The data set contains 50,000 movie reviews from Internet Movie Database (IMDB) labeled whether they are positive or negative.
 Each review is preprocessed to be encoded as a sequence of word indexes.
@@ -72,6 +74,8 @@ Epoch 4/5
 Epoch 5/5
 782/782 [==============================] - 69s 88ms/step - loss: 0.0313 - accuracy: 0.9900 - val_loss: 0.8376 - val_accuracy: 0.8178
 ```
-
+## License
+For more dataset information regarding license, please go through the following link,
+http://ai.stanford.edu/~amaas/data/sentiment/
 
 
