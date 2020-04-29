@@ -18,6 +18,14 @@ Use the data set dedicated to the cost of treatment of different patients. The c
 * Matplotlib
 * sklearn
 
+## Steps involved
+1. Importing relevant python Libraries
+2. Exploring the Dataset
+3. Exploratory Data Analysis
+4. Data Preprocessing
+5. Model Building
+6. Validation
+7. Conclusion
 
 ## License
 The dataset is under following lincense -https://opendatacommons.org/licenses/dbcl/1.0/
