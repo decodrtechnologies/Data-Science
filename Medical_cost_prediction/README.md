@@ -29,3 +29,7 @@ Use the data set dedicated to the cost of treatment of different patients. The c
 
 ## License
 The dataset is under following lincense -https://opendatacommons.org/licenses/dbcl/1.0/
+
+## Source
+The dataset is sourced from - https://www.kaggle.com/mirichoi0218/insurance         
+Reference -https://www.kaggle.com/hely333/eda-regression
