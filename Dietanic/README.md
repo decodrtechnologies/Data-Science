@@ -57,18 +57,5 @@ We created features like **family size**, **age group**, **family group**, **far
 
 Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into.
 
-# Observations:
-
-
-1. We were able to conclude that women and children had a better chance of survival as compared to men.
-2. The passengers who paid more amount of money as the fare were able to survive as they were at a higher deck.
-3. Overall only 38% of the passengers could survive the tragic disaster.
-4. The age played a major role as we could infer that children were indeed the most likely age group to survive, although this      percentage was still tragically below 60%.
-
-
-# Output:
-
-After identifying the important features which actually predcited the survival of a passenger, we were able to predict the survival of the test dataset using the **RandomForest Algorithm** with a very good score. 
-The output of the code is to **predict the survival(0-Die,1-Survive)** of the passenger who boarded the Titanic.
 
 
