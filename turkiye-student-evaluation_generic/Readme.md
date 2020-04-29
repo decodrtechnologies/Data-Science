@@ -93,6 +93,4 @@ K-means clustering is a method of vector quantization, originally from signal pr
 <img src ="https://thatware.co/wp-content/uploads/2019/03/k-mean-clustering.png" height="800" width="800">
 <br>src:https://thatware.co/</img>
 
-## Observation:-
-After applying the clustering algorithm we observe 3 different types of clusters based on the data. Which signifies that there are three different categories of student.
 
