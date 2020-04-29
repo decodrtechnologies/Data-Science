@@ -27,5 +27,5 @@ to build a classifier to predict whether or not it will rain tomorrow in Austral
 The dataset is under following lincence -https://www.ags.gov.au/pal/
 
 ## Source
-The dataset is sourced from Bureau of Meteorology , Government of Australia -http://www.bom.gov.au/climate/data/
-additional source -http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+The dataset is sourced from Bureau of Meteorology , Government of Australia -http://www.bom.gov.au/climate/data/     
+Additional source -http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
