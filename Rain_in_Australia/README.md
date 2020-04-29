@@ -28,4 +28,5 @@ The dataset is under following lincence -https://www.ags.gov.au/pal/
 
 ## Source
 The dataset is sourced from Bureau of Meteorology , Government of Australia -http://www.bom.gov.au/climate/data/     
-Additional source -http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+Additional source -http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml             
+Reference -https://www.kaggle.com/prashant111/extensive-analysis-eda-fe-modelling
