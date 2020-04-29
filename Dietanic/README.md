@@ -10,6 +10,8 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 There are two datasets namely 'test' and 'train' which are totally open source available on kaggle. The training set has 891 rows and 12 columns whereas the test set contains 418 rows and 11 columns. We have appended the 'test' at the end of 'train' dataset and stored it into a new data frame called 'data'.
 
+Link: https://www.kaggle.com/rashigoel/titanic-machine-learning-from-disaster
+
 # Libraries used:
 
 
