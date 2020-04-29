@@ -1,7 +1,9 @@
 Breast cancer Prediction Using K-Nearest Neighbors
 ---------------------------------------------------
-In this Project we are going to use the K-Nearest Neighbors algorithm to Predict
-the breast cancer, that is whether it is Malignant or Benign.
+  In this Project we are going to use the K-Nearest Neighbors algorithm to Predict
+  the breast cancer, that is whether it is Malignant or Benign.
+  We are also building our own KNN model from scratch and will compare the accuray
+  with the inbuilt model.
 
 ![alt text](https://github.com/abhisngh/KNN_Breast_cancer/blob/master/Image/Types.png "Logo Title Text 1")
 
@@ -128,6 +130,7 @@ K-Nearest Neighbor
 ------------------------
     The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
 
+
     Advantages
     -The algorithm is simple and easy to implement.
     -There’s no need to build a model, tune several parameters,or make additional assumptions.
@@ -152,6 +155,16 @@ Libraries used
     Sklearn
     Numpy
     Seaborn
+
+License
+--------------------------------
+    Sklearn Dataset is used here. For more info checkout the link below.
+    https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+
+Contact
+----------------------------------
+    Abhishek Kumar Singh-[@shobhitsingh510@gmail.com]
+            Project Link-  https://github.com/decodrtechnologies/Data-Science
 
 Run
 ------------------------------
