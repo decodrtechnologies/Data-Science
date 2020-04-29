@@ -86,11 +86,12 @@ The discriminant analysis includes methods that can be used for both classificat
 ## Tasks:
 
 Here, we are learning to do
-1. Data Handling
-2. Importing Data with Pandas
-3. Cleaning Data
-4. Exploring Data through Visualizations with Matplotlib
-5. Building Machine Learning Models
+1. Importing the necessary libraries
+2. Exploring the Dataset
+3. Exploratory Data Analysis
+4. Data Preprocessing
+5. Building Models
+6. Validation
 
 ### License:
 
