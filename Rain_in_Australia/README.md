@@ -13,6 +13,16 @@ to build a classifier to predict whether or not it will rain tomorrow in Austral
 * Seaborn
 * Matplotlib
 * sklearn
+
+## Steps involved
+1. Importing relevant python Libraries
+2. Exploring the Dataset
+3. Exploratory Data Analysis
+4. Data Preprocessing
+5. Model Building
+6. Validation
+7. Conclusion
+
 ## Lincence
 The dataset is under following lincence -https://www.ags.gov.au/pal/
 ## Source
