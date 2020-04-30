@@ -74,3 +74,40 @@ To classify a car as **acceptable** , **unacceptable** , **good** or **very good
     acc        384     (22.222 %) 
     good        69     ( 3.993 %) 
     v-good      65     ( 3.762 %) 
+
+    The column names are changed to : 
+     Price                    overall price
+     Maintenance Cost         price of the maintenance
+     Number of Doors          number of doors
+     Capacity                 capacity in terms of persons to carry
+     Size of Luggage boot     the size of luggage boot
+     safety                   estimated safety of the car
+     
+     Decision                 class 
+     for better understanding and convenience
+     
+## Exploratory Data Analysis: 
+
+1. Univariate Analysis : `Pie charts` are used to visualise the distribution between elements of an attribute
+2. Bi-Variate Analysis : `Stacked Bar plots` , `Box plots` and `Violin plots` are used for comparative analysis between attributes and `Decision` which are more deeply explained in the notebook
+
+## Data Processing : 
+
+Caetgorical attributes are converted to Numerical attributes for certain visualisations and for machine learning algorithms to work
+
+## Model Building : 
+   
+Two classification algorithms , i.e :
+     
+      1. **KNN Classifier**
+      2. **Random Forest Classifier**
+
+are used for model building. They are further deeply explained and explored in the notebook. Scoring measures like `Accuracy` and `F1 score` are both evaluated for proper analysis
+
+## HyperTuning : 
+
+Hyperparamters are trained with the help of graphs and GridSearch to give an idea about both methods and to properly assess the best model
+
+## Conclusion : 
+
+All models are analysed and the best one is picked out
