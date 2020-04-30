@@ -1,6 +1,8 @@
-# Car Evaluation
-
+# Car Evaluation Dataset
+This dataset is procured from opensource `UCI Repository` . It can be taken from [here](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 ## Business Problem : 
+
+To classify a car as **acceptable** , **unacceptable** , **good** or **very good** based on its price , characterstics and maintenance cost
 
 ## Data Description : 
      1. Title: Car Evaluation Database
@@ -71,4 +73,4 @@
     unacc     1210     (70.023 %) 
     acc        384     (22.222 %) 
     good        69     ( 3.993 %) 
-   v-good      65     ( 3.762 %) 
+    v-good      65     ( 3.762 %) 
