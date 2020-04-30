@@ -58,4 +58,13 @@ We created features like **family size**, **age group**, **family group**, **far
 Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into.
 
 
+# License:
+
+## NO COPYRIGHT
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his 
+or her rights to the work worldwide under copyright law, including all related and neighboring rights, 
+to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
