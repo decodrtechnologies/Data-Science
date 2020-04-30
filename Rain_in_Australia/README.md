@@ -4,6 +4,14 @@
 Use the dataset and try to answer the question that whether or not it will rain tomorrow in Australia. Use Python and Scikit-Learn
 to build a classifier to predict whether or not it will rain tomorrow in Australia. 
 
+## Content
+
+This dataset contains daily weather observations from numerous Australian weather stations.
+
+The target variable RainTomorrow means: Did it rain the next day? Yes or No.
+
+Note: You should exclude the variable Risk-MM when training a binary classification model. Not excluding it will leak the answers to your model and reduce its predictability. Read more about it here.
+
 ## Dataset Attributes
 ![Rain In Australia](https://github.com/decodrtechnologies/Data-Science/blob/master/Rain_in_Australia/data.PNG)
 
