@@ -1,7 +1,7 @@
 # Houses_Kc_Price_Prediction
 
 # Problem Statement:
-House Data Price Prediction Using Multiple Regression and Backward Elimination Technique
+House Data Price Prediction Using Multiple Regression and Backward Elimination Technique using Sckit-Learn Library.
 # Description:
 Here in this business problem, we want to find out the prices of Houses in King County,USA. Here we are given many parameters which directly influence the prices of the houses. We need to find the best quoted value for the price considering all the dependent parameters and we need to observe which parameters plays a key role in price determination of the houses.
 
@@ -103,8 +103,5 @@ And Finally we have used OLS (Ordinary Least Square Method) for our regression M
     - After making sure you have that, you can run from a terminal or cmd next lines :
     - ipython notebook kc_housing_price.ipynb
    
-
-# Conclusion:
-Our Model is consistent with an excellent R squared value of 0.905. This clearly shows that most of the variation in the prices are very well expalined by these independent features. We have retained all those features whose p value < 0.05.
 
 
