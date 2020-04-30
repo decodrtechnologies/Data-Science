@@ -4,10 +4,12 @@
 
 This is a typical NLP task where we have to predict the sentiment of the users from their reviews.
 
+The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction. We have to create a target feature out of ratings and predict the sentiment of the reviews.
+
 ### Data Description
 [Data Source](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
-The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction.
+The data is split into a train (75%) a test (25%) partition.
 
 **Attribute Information:**
 
@@ -18,16 +20,13 @@ The dataset provides patient reviews on specific drugs along with related condit
 5. date (date): date of review entry
 6. usefulCount (numerical): number of users who found review useful
 
+The structure of the data is that a patient with a unique ID purchases a drug that meets his condition and writes a review and rating for the drug he/she purchased on the date. Afterwards, if the others read that review and find it helpful, they will click usefulCount, which will add 1 for the variable.
+
 ### Exploratory Data Analysis
 
-Through our EDA we were able to find some interesting facts about our data. Below are the things that we found 
-* The top condition were pain, birth control and high blood pressure.
-* Most the conditions have multiple drugs.
-* A single drug can be used for multiple conditions.
-* The number of reviews has increased in last 3 years.
-* As the ratings has increased average yearly rating has decresed.
-* Ratings of the users are extreme. They only rate when they find the drug very effective or the drug shows some side effects.
-* Most of the usefulCounts are distributed between 0 and 200.
+The purpose of EDA is to find out interesting insights and irregularities in our Dataset. We will look at Each feature and try to find out interesting facts and patterns from them. And see if there is any relationship between the variables or not.
+
+Through our EDA we will able to find some interesting facts about our data and features which can be really helpful while building models. 
 
 ### Data Pre-Processing
 * Check null values. And delete them if they are neligible.
@@ -59,5 +58,24 @@ IDF = log(Number of sentences / Number of sentence containing word)\
 * Split the data into train and test in 67 : 33 ratio.
 * Fit MultinomialNB and RandomForestClassifier on training set, predict and check accuracy.
 
-## Conclusion
-After applying the TfidfVectorizer to transform our reviews in Vectors and applying NaiveBayes and RandomForestClassifier we see that RandomForestClassifier outperforms MulinomialNB. We have achieved accuracy of 89.7 % after applying RandomForestClassifier without any parameter tuning. We can tune the parameters of our classifier and improve our accuracy.
+## Parameter Tuning
+After building base model,try different set of parameters to increase the accuracy of your model. You can use GridSearchCV or RandomizedSearchCV to get the right set of parameters.
+
+## License
+    {Source:
+
+    Surya Kallumadi
+    Kansas State University
+    Manhattan, Kansas, USA
+    surya '@' ksu.edu
+
+    Felix Gräßer
+    Institut für Biomedizinische Technik
+    Technische Universität Dresden
+    Dresden, Germany
+    felix.graesser '@' tu-dresden.de
+        }
+## Citation Request:
+
+Felix Gräßer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder. 2018. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning. In Proceedings of the 2018 International Conference on Digital Health (DH '18). ACM, New York, NY, USA, 121-125. DOI: [Web Link](https://dl.acm.org/doi/10.1145/3194658.3194677)
+

@@ -6,6 +6,7 @@ Classification is a process of categorizing a given set of data into classes, It
 
 Our aim is to create a model that can classify dataset wine samples as 'good' or 'bad', based on the training we give to the model. This will be done with the help of certain physiochemical properties of the wine samples.
 
+
 ## Understanding our Dataset :
 We will be using a [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/Wine) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/).
 
@@ -25,6 +26,19 @@ The features represented through columns are as follows:
 - sulphates
 - alcohol
 - quality (score between 0 and 10) (based on sensory data)
+
+### Dataset Source :
+
+**Original Owners**
+
+Forina, M. et al, PARVUS -
+An Extendible Package for Data Exploration, Classification and Correlation.
+Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno,
+16147 Genoa, Italy.
+
+**Donor**
+
+Stefan Aeberhard, email: stefan '@' coral.cs.jcu.edu.au
 
 ## Libraries Required :
 - Sklearn 
@@ -48,3 +62,16 @@ The features represented through columns are as follows:
 > * Grid Search CV
 > * Cross Validation Score
 7. Conclusion
+
+## License :
+
+**Citation**
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+@misc{Dua:2019 ,
+author = "Dua, Dheeru and Graff, Casey",<br>
+year = "2017",<br>
+title = "{UCI} Machine Learning Repository",<br>
+url = "http://archive.ics.uci.edu/ml",<br>
+institution = "University of California, Irvine, School of Information and Computer Sciences" }

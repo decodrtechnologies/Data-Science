@@ -1,5 +1,12 @@
 # Turkiye-Student-Evaluation-Data-Set
 In this project we are basically going to perform clustering on the given data and these clusters will signify different categories of students based on the marks, content, course and other features.
+
+## License:-
+
+The license for the above used dataset is given in below link:-
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
 ## Dataset Information :-
 The dataset has been taken from: http://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation#
 

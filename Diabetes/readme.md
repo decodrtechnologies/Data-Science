@@ -3,8 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -44,7 +43,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
+* [Dataset owner](#Dataset-Owner)
 
 
 
@@ -132,9 +131,9 @@ Pima Indian Diabetes Dataset used in the problem is available open source on <a 
 
 
 <!-- CONTACT -->
-## Contact
+## Dataset Owner
 
-Suraj Tiwari - [@stsuraj01@gmail.com]
+UCI Machine learning
 
 Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science/)
 
