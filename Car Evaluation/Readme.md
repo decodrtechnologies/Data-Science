@@ -86,6 +86,13 @@ To classify a car as **acceptable** , **unacceptable** , **good** or **very good
      Decision                 class 
      for better understanding and convenience
      
+## Libraries Used :
+1. Sklearn
+2. Matplotlib
+3. Pandas
+4. Numpy
+5. Seaborn
+
 ## Exploratory Data Analysis: 
 
 1. **Univariate Analysis** : `Pie charts` are used to visualise the distribution between elements of an attribute
@@ -111,3 +118,7 @@ Hyperparamters are trained with the help of graphs and GridSearch to give an ide
 ## Conclusion : 
 
 All models are analysed and the best one is picked out
+
+## Contact : 
+
+   **Kushagra Thakral** : `kthakral@ch.iitr.ac.in`
