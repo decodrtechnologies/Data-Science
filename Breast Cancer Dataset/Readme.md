@@ -142,6 +142,11 @@ K-Nearest Neighbor
 ![alt text](https://github.com/abhisngh/KNN_Breast_cancer/blob/master/Image/KNN.png "Logo Title Text 1")
 
 
+STEPS INVOLVED
+-------------------------------
+  1. Go for Exploration_Template.ipynb for Analysis of the Dataset
+  2. The implemented part is in KNN Implementation.ipynb, i.e solution.
+
 
 Install
 -------------------------------
@@ -163,8 +168,8 @@ License
 
 Contact
 ----------------------------------
-    Abhishek Kumar Singh-[@shobhitsingh510@gmail.com]
-            Project Link-  https://github.com/decodrtechnologies/Data-Science
+    Dataset Link- https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+    Project Link-  https://github.com/decodrtechnologies/Data-Science
 
 Run
 ------------------------------
