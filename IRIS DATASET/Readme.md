@@ -1,6 +1,6 @@
 # Iris Dataset
 
-In this project we are going to classify different species of iris flower by using features such as sepal length,sepal width,petal length,petal width.
+In this project we are going to classify different species of iris flower by using features such as sepal length,sepal width,petal length,petal width.We will be using AdaBoostClassifier to classify the data, also we will be using decision tree classifier and Support Vector Classifier one by one as a base estimator in AdaBoost.
 
 ## License:-
 
