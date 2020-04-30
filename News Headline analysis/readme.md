@@ -18,10 +18,10 @@
   In this project, we'll be identifying topics of national discussion in past 10 years in Australlia. 
     <br /></p>
   <p align="center">
-    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/News-Headline-analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/News Headline analysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/News-Headline-analysis">View Demo</a>
+    <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/News Headline analysis">View Demo</a>
     ·
     <a href="https://github.com/decodrtechnologies/Data-Science/issues">Report Bug</a>
     ·
@@ -126,7 +126,7 @@ A Million News Headlines Dataset used in the problem is available open source on
 
 Rohk (@ https://www.kaggle.com/therohk)
 
-Project Link: [https://github.com/decodrtechnologies/Data-Science/News-Headline-analysis](https://github.com/decodrtechnologies/Data-Science/News-Headline-analysis)
+Project Link: [https://github.com/decodrtechnologies/Data-Science/News Headline analysis](https://github.com/decodrtechnologies/Data-Science/News Headline analysis)
 
 
 
