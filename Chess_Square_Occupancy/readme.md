@@ -7,6 +7,10 @@ Lots of information is contained within a single chess game, let alone a full da
 1. https://www.chess.com/article/view/chess-notation
 2. https://blog.chesshouse.com/how-to-read-and-write-algebraic-chess-notation/
 
+### Lisence for the dataset
+CC0: Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
 Install
 -------------------------------
 Supported Python version
