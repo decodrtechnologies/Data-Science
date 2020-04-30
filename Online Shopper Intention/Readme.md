@@ -4,7 +4,7 @@ and use it to predict whether a customer will purchase something or not.
 Is is a type of classification problem.
 
 # Problem Description:
-Our aim is to create a model that can classify Customer Shopping instance  as 'sucessful' or 'not sucessful', 
+Our aim is to create a model that can classify Customer Shopping instance  as 'successful' or 'not sucessful', 
 based on the training we give to the model. This will be done with the help of certain features of the given dataset.
 You can download the dataset from the provide link.
 https://archive.ics.uci.edu/ml/machine-learning-databases/00468/
