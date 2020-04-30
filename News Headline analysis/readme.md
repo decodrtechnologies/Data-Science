@@ -156,7 +156,7 @@ A Million News Headlines Dataset used in the problem is available open source on
 
 Rohk (@ https://www.kaggle.com/therohk)
 
-Project Link: [https://github.com/decodrtechnologies/Data-Science/News Headline analysis](https://github.com/decodrtechnologies/Data-Science/News Headline analysis)
+Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science)
 
 
 
