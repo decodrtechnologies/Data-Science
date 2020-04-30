@@ -21,38 +21,12 @@ A Term deposit is a deposit that a bank or a financial institurion offers with a
 
 ## Outline:
 
-### A. Attribute Descriptions:
-  I. Bank client data  
-  II. Related with the last contact of the current campaign  
-  III. Other attributes  
+1. Import data from dataset and perform initial high-level analysis: look at the number of rows, look at the missing values, look at dataset columns and their values respective to the campaign outcome.
+2. Clean the data: remove irrelevant columns, deal with missing and incorrect values, turn categorical columns into dummy variables.
+3. Use machine learning techniques to predict the marketing campaign outcome and to find out factors, which affect the success of the campaign.  
 
-### B. Structuring the data:
-  I. Overall Analysis of the Data  
-  II. Data Structuring and Conversion  
-
-### C. Exploratory Data Analysis (EDA)
-  I. Accepted vs Rejected Term Deposits  
-  II. Distribution Plots  
-
-### D. Different Aspects of the Analysis:
-  I. Months of Marketing Activty  
-  II. Seasonalities  
-  III. Number of Calls to the potential client  
-  IV. Age of the Potential Clients  
-  V. Types of Occupations that leads to more term deposits suscriptions  
-
-### E. Correlations that impacted the decision of Potential Clients. 
-  I. Analysis of our Correlation Matrix  
-  II. Balance Categories vs Housing Loans  
-  III. Negative Relationship between H.Loans and Term Deposits  
-
-### F. Classification Model
-  I. Introduction  
-  II. Stratified Sampling  
-  III. Classification Models  
-  IV. Confusion Matrix  
-  V. Precision and Recall Curve  
-  VI. Feature Importances Decision Tree C  
-
-### G. Next Campaign Strategy
-  I. Actions the Bank should Consider  
+## License 
+This dataset is public available for research.  
+Citations -  
+1.Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014  
+2.Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. 
