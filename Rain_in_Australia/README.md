@@ -10,9 +10,10 @@ This dataset contains daily weather observations from numerous Australian weathe
 
 The target variable RainTomorrow means: Did it rain the next day? Yes or No.
 
-Note: You should exclude the variable Risk-MM when training a binary classification model. Not excluding it will leak the answers to your model and reduce its predictability. Read more about it here.
+Note: You should exclude the variable Risk-MM when training a binary classification model. Not excluding it will leak the answers to your model and reduce its predictability.
 
 ## Dataset Attributes
+To save space on the screen, most of the columns have abbreviated headings:
 ![Rain In Australia](https://github.com/decodrtechnologies/Data-Science/blob/master/Rain_in_Australia/data.PNG)
 
 ## Libraries Used
