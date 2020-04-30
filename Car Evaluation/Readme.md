@@ -88,8 +88,8 @@ To classify a car as **acceptable** , **unacceptable** , **good** or **very good
      
 ## Exploratory Data Analysis: 
 
-1. Univariate Analysis : `Pie charts` are used to visualise the distribution between elements of an attribute
-2. Bi-Variate Analysis : `Stacked Bar plots` , `Box plots` and `Violin plots` are used for comparative analysis between attributes and `Decision` which are more deeply explained in the notebook
+1. **Univariate Analysis** : `Pie charts` are used to visualise the distribution between elements of an attribute
+2. **Bi-Variate Analysis** : `Stacked Bar plots` , `Box plots` and `Violin plots` are used for comparative analysis between attributes and `Decision` which are more deeply explained in the notebook
 
 ## Data Processing : 
 
@@ -99,8 +99,8 @@ Caetgorical attributes are converted to Numerical attributes for certain visuali
    
 Two classification algorithms , i.e :
      
-      1. **KNN Classifier**
-      2. **Random Forest Classifier**
+   - **KNN Classifier**
+   - **Random Forest Classifier**
 
 are used for model building. They are further deeply explained and explored in the notebook. Scoring measures like `Accuracy` and `F1 score` are both evaluated for proper analysis
 
