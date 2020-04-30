@@ -27,20 +27,16 @@ The features represented through columns are as follows:
 - alcohol
 - quality (score between 0 and 10) (based on sensory data)
 
-### Citation :
+### Dataset Source :
 
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-
-### Source :
-
-**Original Owners:**
+**Original Owners**
 
 Forina, M. et al, PARVUS -
 An Extendible Package for Data Exploration, Classification and Correlation.
 Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno,
 16147 Genoa, Italy.
 
-**Donor:**
+**Donor**
 
 Stefan Aeberhard, email: stefan '@' coral.cs.jcu.edu.au
 
@@ -66,3 +62,16 @@ Stefan Aeberhard, email: stefan '@' coral.cs.jcu.edu.au
 > * Grid Search CV
 > * Cross Validation Score
 7. Conclusion
+
+## License :
+
+**Citation**
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+@misc{Dua:2019 ,
+author = "Dua, Dheeru and Graff, Casey",<br>
+year = "2017",<br>
+title = "{UCI} Machine Learning Repository",<br>
+url = "http://archive.ics.uci.edu/ml",<br>
+institution = "University of California, Irvine, School of Information and Computer Sciences" }
