@@ -57,23 +57,7 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
-## Training and validating the model
 
-I trained the model  for only 5 epochs.
-Here's result of the training for the five epochs. 
-
-```
-Epoch 1/5
-782/782 [==============================] - 75s 95ms/step - loss: 0.1147 - accuracy: 0.9614 - val_loss: 0.4856 - val_accuracy: 0.8281
-Epoch 2/5
-782/782 [==============================] - 71s 91ms/step - loss: 0.0820 - accuracy: 0.9712 - val_loss: 0.6072 - val_accuracy: 0.8244
-Epoch 3/5
-782/782 [==============================] - 73s 93ms/step - loss: 0.0579 - accuracy: 0.9804 - val_loss: 0.6630 - val_accuracy: 0.8083
-Epoch 4/5
-782/782 [==============================] - 70s 90ms/step - loss: 0.0397 - accuracy: 0.9871 - val_loss: 0.7662 - val_accuracy: 0.8167
-Epoch 5/5
-782/782 [==============================] - 69s 88ms/step - loss: 0.0313 - accuracy: 0.9900 - val_loss: 0.8376 - val_accuracy: 0.8178
-```
 ## License
 For more dataset information regarding license, please go through the following link,
 http://ai.stanford.edu/~amaas/data/sentiment/
