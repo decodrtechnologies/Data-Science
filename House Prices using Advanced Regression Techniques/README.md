@@ -15,21 +15,21 @@ data_description.txt - full description of each column, originally prepared by D
 sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 ## Libraries used:
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Sklearn
-XGBoost
-Lightgbm
+ - Numpy
+ - Pandas
+ - Matplotlib
+ - Seaborn
+ - Sklearn
+ - XGBoost
+ - Lightgbm
 
 ## Algorithm:
-ElasticNet Regression 
-Lasso Regression
-Kernel Ridge Regression
-Gradient Boosting Regression
-XGBoost
-LightGBM
+ - ElasticNet Regression 
+ - Lasso Regression
+ - Kernel Ridge Regression
+ - Gradient Boosting Regression
+ - XGBoost
+ - LightGBM
 
 ## Steps involved:
 1. Importing relevant python Libraries
@@ -40,3 +40,7 @@ LightGBM
 6. Validation
 7. Conclusion
 
+## License:
+ - Dataset : Ames Housing Datset
+ - Licensed under **gpl-2**
+ - Paper - http://jse.amstat.org/v19n3/decock.pdf
