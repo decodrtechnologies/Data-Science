@@ -1,6 +1,9 @@
 # SMS-SPAM-FILTERING
 Spam filtering/detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'.
-
+<br>
+<p align="center">
+<img src="https://t3n9sm.c2.acecdn.net/wp-content/uploads/2013/08/SMS-spam.jpg" alt="Smiley face" width="300" height="300">    
+</p>
 
 ## Problem Description:
 Our aim is to create a model that can classify dataset SMS messages as spam or not spam, based on the training we give to the model. Usually spam messages have words like 'free', 'win', 'winner', 'cash', 'prize' and the like in them as these texts are designed to catch your eye and in some sense tempt you to open them. Also, spam messages tend to have words written in all capitals and also tend to use a lot of exclamation marks. To the recipient, it is usually pretty straightforward to identify a spam text and our objective here is to train a model to do that for us!
@@ -26,7 +29,15 @@ Being able to identify spam messages is a binary classification problem as messa
 - Seaborn
 - Collections
 
-## Understanding our Dataset
+## License & References:
+This is an opensource dataset which can be found on UCI Repository. 
+```
+[1] Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of  California, School of Information and Computer Science. 
+
+[2] http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+````
+
+## Understanding our Dataset:
 We will be using a [The SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/).
 
 The given dataset is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
@@ -58,8 +69,10 @@ The second column is the text content of the SMS message that is being classifie
 - Univairate analysis to analyse the distribution of spam/ham messages. 
 - Text analysis (important when dealing with text data): analysing the more frequent words  in spam/ham messages,lengths of most spam messages.
 - **Stop words Removal:**
-
+<p align="center">
     <img src ="https://i2.wp.com/xpo6.com/wp-content/uploads/2009/04/stop-words.png?fit=837%2C499" height="300" width="500"><br>src:http://xpo6.com</img>
+<p align="center">
+    
 
 > * We see that the majority of frequent words in msgs are **'the', 'to', 'a', 'or' and so on. These are called stop words and are a part of english grammer,but they don't really provide any semantic meaning ot msgs,we need to find the actual vocabulary words which contribute to the meaning**</b><p>
 > * With stop words we refer to the most common words in a lenguage, there is no simgle, universal list of stop words. <p>
