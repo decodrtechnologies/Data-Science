@@ -9,13 +9,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://images.app.goo.gl/Lh3jGQ25gbJR8o1C7" alt="Logo" width="150" height="150">
+    <img src="https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Logo" width="150" height="250">
   </a>
 
   <h3 align="center">News Headline Analysis</h3>
 
   <p align="justify">
-  In this project, we'll be identifying topics of national discussion in past 10 years in Australlia. 
+  In this project, we'll be identifying topics of national discussion in past 10 years in Australlia. Our basic task will be to analyse the headlines present in dataset and find out topics that prevail in news.
     <br /></p>
   <p align="center">
     <a href="https://github.com/decodrtechnologies/Data-Science/tree/master/News Headline analysis"><strong>Explore the docs »</strong></a>
@@ -39,6 +39,9 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [Dataset](#Dataset)
+  * [Context](#context)
+  * [Content](#content)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -49,6 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+  In this project, we'll be identifying topics of national discussion in past 10 years in Australlia. Our basic task will be to analyse the headlines present in dataset and find out topics that prevail in news. The news headlines are taken from 'A million news' dataset available on Kaggle. The main task will be to load the dataset, remove stopwords and identify most occuring words and later doing LDA to identify most prevailing topics of national interest.
 
 ### Built With
 The entire coding part is done using:
@@ -87,6 +91,32 @@ git clone https://github.com/github_username/repo.git
 2. Install Jupyter notebook
 3. Install Python packages
 
+<!-- DATASET -->
+
+## Dataset
+
+### Context
+
+The  dataset contains data of news headlines published over a period of seventeen years.
+
+Sourced from the reputable Australian news source ABC (Australian Broadcasting Corp.)
+
+Agency Site: (http://www.abc.net.au)
+
+### Content
+
+Format: CSV ; Single File
+
+    publish_date: Date of publishing for the article in yyyyMMdd format
+    headline_text: Text of the headline in Ascii , English , lowercase
+
+Start Date: 2003-02-19 ; End Date: 2019-12-31
+
+This includes the entire corpus of articles published by the abcnews website in the given time range.
+With a volume of two hundred articles per day and a good focus on international news, we can be fairly certain that every event of significance has been captured here.
+
+Digging into the keywords, one can see all the important episodes shaping the last decade and how they evolved over time.
+Ex: afghanistan war, financial crisis, multiple elections, ecological disasters, terrorism, famous people, criminal activity et cetera.
 
 <!-- ROADMAP -->
 ## Roadmap
