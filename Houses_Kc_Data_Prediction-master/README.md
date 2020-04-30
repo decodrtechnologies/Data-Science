@@ -107,4 +107,7 @@ And Finally we have used OLS (Ordinary Least Square Method) for our regression M
    ## License & References:
 This is an opensource dataset which can be found on Kaggle. 
 
-Link: https://www.kaggle.com/divan0/multiple-linear-regression/notebook
+Link:
+
+https://www.kaggle.com/divan0/multiple-linear-regression/notebook
+https://creativecommons.org/publicdomain/zero/1.0/
