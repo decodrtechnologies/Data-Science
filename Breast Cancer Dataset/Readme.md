@@ -2,7 +2,7 @@ Breast cancer Prediction Using K-Nearest Neighbors
 ---------------------------------------------------
   In this Project we are going to use the K-Nearest Neighbors algorithm to Predict
   the breast cancer, that is whether it is Malignant or Benign.
-  We are also building our own KNN model from scratch and will compare the accuray
+  We are also building our own KNN model from scratch and will compare the accuracy
   with the inbuilt model.
 
 ![alt text](https://github.com/abhisngh/KNN_Breast_cancer/blob/master/Image/Types.png "Logo Title Text 1")
@@ -155,21 +155,21 @@ Install
 
 Libraries used
 ------------------------------
-    Pandas
-    Matplotlib
-    Sklearn
-    Numpy
-    Seaborn
+ * [Pandas](https://pandas.pydata.org/)
+ * [Matplotlib](https://matplotlib.org/)
+ * [Sklearn](https://scikit-learn.org/stable/)
+ * [Numpy](https://numpy.org/)
+ * [Seaborn](https://seaborn.pydata.org/)
 
 License
 --------------------------------
-    Sklearn Dataset is used here. For more info checkout the link below.
-    https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+ * [Breast_Cancer_dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
+ * [BSD License](https://github.com/scikit-learn/scikit-learn/blob/master/COPYING)
 
 Contact
 ----------------------------------
-    Dataset Link- https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
-    Project Link-  https://github.com/decodrtechnologies/Data-Science
+ * [Dataset Link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+ * [Project Link](https://github.com/decodrtechnologies/Data-Science)
 
 Run
 ------------------------------
