@@ -16,7 +16,7 @@ Suppose one day you wake up and recieve a message on your text that some amount 
 
 ## Handling Imbalanced Class
 To handle class imbalance mostly used techniques are -
-![alt text](https://drive.google.com/uc?id=1AUKOGnUrBPkd7gKhSj-I3yPW7SDmljm5)
+![Sampling](https://drive.google.com/open?id=1AUKOGnUrBPkd7gKhSj-I3yPW7SDmljm5)
 * **Random Over Sampling**
     
     In over sampling we make the instances of minority class equal to the majority class. Suppose out of  100 there are only 2 fraud cases. By over sampling  we make the instances of fraud cases from 2 to 100 by duplicating.
