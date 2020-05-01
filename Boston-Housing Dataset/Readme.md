@@ -5,9 +5,9 @@ Boston Housing Dataset-Regression
     new home.
 
     In this we are going to use 3 Different Regression Model:
-        * Linear Regression
-        * Lasso Regression
-        * Random Forest Regressor
+ * [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ * [Lasso Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
+ * [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ![alt text](https://github.com/abhisngh/Regression-Boston-Dataset/blob/master/Images/boston_readme.jpg "Logo Title Text 1")
 
