@@ -56,9 +56,9 @@ Idea is explained and implementation of stratified sampling is done in this sect
 
 Three regression algorithms i.e 
     
-    -Linear Regression
-    -Decision Tree
-    -Random Forest 
+  - **Liear Regression**
+  - **Decision Tree**
+  - **Random Forest** 
 
 are explained thoroughly and implemented in this section.
 
