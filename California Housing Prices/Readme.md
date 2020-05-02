@@ -30,3 +30,38 @@ The information was collected on the variables using all the block groups in Cal
     9. medianHouseValue: Median house value for households within a block (measured in US Dollars)
     10. oceanProximity: Location of the house w.r.t ocean/sea
 
+## Libraries Used : 
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - sklearn
+
+## Exploratory Data Analysis : 
+
+    - Univariate Analysis : Boxplots , Histograms and Barplot
+    - Bi-Variate Analysis : Scatter Matrix
+    - multi-Variate Analysis : Scatter plots
+
+## Data Cleaning and Manipulations:
+
+Data is cleaned , missing values are handled etc and data is manipulated to make more meaningful attributes or remove redundant ones
+
+## Straitified Sampling : 
+Idea is explained and implementation of stratified sampling is done in this section
+
+## Modelling and HyperTuning : 
+
+Three regression algorithms i.e 
+    
+    -Linear Regression
+    -Decision Tree
+    -Random Forest 
+
+are explained thoroughly and implemented in this section.
+
+HyperTuning with the help of GridSearch is also explained extensively and used to find best parameters 
+
+## Conclusion : 
+
+All models are analysed and the best one is chosen
