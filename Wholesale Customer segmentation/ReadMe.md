@@ -1,4 +1,4 @@
-# CREATE CUSTOMER SEGMENTATION ON WHOLESALE DATASET
+# CUSTOMER SEGMENTATION ON WHOLESALE DATASET
 
 In this project we will be using unsupervised approach to segment the customers.
 
