@@ -9,6 +9,8 @@ The data contains information from the 1990 California census.
 
 License for this dataset cam be accessed [here](https://creativecommons.org/publicdomain/zero/1.0/)
 
+<img src="https://www.mercurynews.com/wp-content/uploads/2018/04/aerial-jah1.jpg">
+
 ## Objective : 
 
 To predict the prices of houses in Californa based on their different specifications and locations
@@ -65,3 +67,16 @@ HyperTuning with the help of GridSearch is also explained extensively and used t
 ## Conclusion : 
 
 All models are analysed and the best one is chosen
+
+## Acknowledgements :
+This data was initially featured in the following paper:
+Pace, R. Kelley, and Ronald Barry. "Sparse spatial autoregressions." Statistics & Probability Letters 33.3 (1997): 291-297.
+and I encountered it in 'Hands-On Machine learning with Scikit-Learn and TensorFlow' by Aurélien Géron.
+
+## Source :
+Aurélien Géron wrote:
+This dataset is a modified version of the California Housing dataset available from:
+[Luís Torgo's](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) page (University of Porto)
+
+## Contact : 
+**Kushagra Thakral** : `kthakral@ch.iitr.ac.in`
