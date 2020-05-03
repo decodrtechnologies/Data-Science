@@ -27,3 +27,14 @@ Note: The goal for most regression evaluation metrics is to minimize the error. 
 <h2>Features</h2>
 
 Kaggle provides a data dictionary detailing all of the features of the dataset. You can view this data dictionary on Google Sheets: https://docs.google.com/spreadsheets/d/18ly-bLR8sbDJLITkWG7ozKm8l3RyieQ2Fpgix-beSYI/edit?usp=sharing
+
+<h2>Install</h2>
+
+  - Supported Python version - Python version used in this Project : 3.5+
+
+<h2>Run</h2>
+
+- To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
+  - After making sure you have that, you can run from a terminal or cmd next lines :
+  - ipython notebook Business Problem Statement.ipynb 
+  - ipython notebook 02 - Data-Pre-Processing-EDA-Visualization-Model-Buliding.ipynb
