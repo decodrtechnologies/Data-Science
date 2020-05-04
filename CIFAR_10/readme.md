@@ -52,12 +52,12 @@ Convolutional Neural Networks
 ------------------------
     In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.
 
-    Advantages
+    Advantages:
     -3D volumes of neurons. The layers of a CNN have neurons arranged in 3 dimensions: width, height and depth.[citation needed] where each neuron inside a convolutional layer is connected to only a small region of the layer before it, called a receptive field. Distinct types of layers, both locally and completely connected, are stacked to form a CNN architecture.
     -Shared weights: In CNNs, each filter is replicated across the entire visual field. These replicated units share the same parameterization (weight vector and bias) and form a feature map. This means that all the neurons in a given convolutional layer respond to the same feature within their specific response field. 
     -Pooling: In a CNN's pooling layers, feature maps are divided into rectangular sub-regions, and the features in each rectangle are independently down-sampled to a single value, commonly by taking their average or maximum value.
 
-    Disadvantages
+    Disadvantages:
     Computationally expensive and demands high grade GPUs to run properly.
 
 ![alt text](https://miro.medium.com/max/3480/1*uUYc126RU4mnTWwckEbctw@2x.png "Image algo")
