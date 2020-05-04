@@ -77,22 +77,22 @@ Install
 
 Libraries used
 ------------------------------
- * [Pandas](https://pandas.pydata.org/)
- * [Numpy](https://numpy.org/)
- * [Matplotlib](https://matplotlib.org/)
- * [Sklearn](https://scikit-learn.org/stable/)
- * [Seaborn](https://seaborn.pydata.org/)
- * [Keras]
- * [Tesorflow]
+  [Pandas](https://pandas.pydata.org/)
+  [Numpy](https://numpy.org/)
+  [Matplotlib](https://matplotlib.org/)
+  [Sklearn](https://scikit-learn.org/stable/)
+  [Seaborn](https://seaborn.pydata.org/)
+  [Keras]
+  [Tesorflow]
 
 License
 --------------------------------
- * [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+  [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
  
 Contact
 ----------------------------------
- * [Dataset Link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
- * [Project Link](https://github.com/decodrtechnologies/Data-Science)
+  [Dataset Link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
+  [Project Link](https://github.com/decodrtechnologies/Data-Science)
 
 Run
 ------------------------------
