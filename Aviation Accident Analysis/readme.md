@@ -42,7 +42,20 @@ Dataset - Airplane Crashes and Fatalities since 1908
         -Summary:   Brief description of the accident and cause if known
 
 
-    :Missing Attribute Values: None
+    :Missing Attribute Values: 
+        -Date               0
+        -Time            2219
+        -Location          20
+        -Operator          18
+        -Flight #        4199
+        -Route           1706
+        -Type              27
+        -Registration     335
+        -cn/In           1228
+        -Aboard            22
+        -Fatalities        12
+        -Ground            22
+        -Summary          390
 
     :Creator:  Sauro Grandi
 

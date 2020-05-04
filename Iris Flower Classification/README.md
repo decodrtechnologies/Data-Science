@@ -1,6 +1,6 @@
 # Iris Species Classification
 
-Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process involves predicting the class of given data points. The classes are often referred to as target, label or categories.
+Classification is a process of categorizing a given set of data into classes. It can be performed on both structured and unstructured data. The process involves predicting the class of given data points. The classes are often referred to as target, label or categories.
 
 ## Problem Description : 
 
@@ -41,11 +41,9 @@ Here's a picture of the three different Iris types:
 ### Dataset Source :
 
 **Creator**
-
 R.A. Fisher
 
 **Donor**
-
 Michael Marshall (MARSHALL%PLU '@' io.arc.nasa.gov)
 
 ## Libraries Required :
@@ -67,7 +65,6 @@ Michael Marshall (MARSHALL%PLU '@' io.arc.nasa.gov)
 > * SVM
 > * Naive Bayes Classification
 > * Random forest
-> * Extra Tree Classifier
 > * XGBoost
 6. Performance Comparison
 7. Conclusion

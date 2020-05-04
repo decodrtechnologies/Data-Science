@@ -89,6 +89,8 @@ To classify a car as **acceptable** , **unacceptable** , **good** or **very good
      Decision                 class 
      for better understanding and convenience
      
+<img src="https://miro.medium.com/max/822/1*8l1EeYnPyKNGi3rtHx7mtQ.png">
+
 ## Libraries Used :
 1. Sklearn
 2. Matplotlib
