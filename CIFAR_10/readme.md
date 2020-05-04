@@ -44,9 +44,9 @@ This database is also available on Kaggle:
 
 https://www.kaggle.com/c/cifar-10/overview
 
-    .. topic:: References
+    .References:
 
-   - [Learning Multiple Layers of Features from Tiny Images] (https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), Alex Krizhevsky, 2009.
+   - [Learning Multiple Layers of Features from Tiny Images] (https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf) , Alex Krizhevsky, 2009.
 
 Convolutional Neural Networks
 ------------------------
