@@ -4,6 +4,7 @@
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). In [Cortez and Silva, 2008], the two datasets were modeled under binary/five-level classification and regression tasks. Important note: the target attribute G3 has a strong correlation with attributes G2 and G1. This occurs because G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd period grades. It is more difficult to predict G3 without G2 and G1, but such prediction is much more useful (see paper source for more details).
 
 ## Attributes:  
+
 1. School - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 
 2. Sex - student's sex (binary: 'F' - female or 'M' - male)
@@ -70,7 +71,8 @@ This data approach student achievement in secondary education of two Portuguese 
 
 32. G3 - final grade (numeric: from 0 to 20, output target)
 
-## Outline  
+## Outline:  
+
 1. Fetch and Load Dataset  
   
 2. Data Preprocessing 
@@ -81,7 +83,12 @@ This data approach student achievement in secondary education of two Portuguese 
   
 5. Model Evaluation  
 
-## License
+## Data Source:  
+
+Paulo Cortez, University of Minho, GuimarÃ£es, Portugal, http://www3.dsi.uminho.pt/pcortez  
+
+## License:  
+
 This dataset is public available for research.  
 Citation-  
 P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. 
