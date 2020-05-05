@@ -48,6 +48,8 @@ The entire coding is done by using the jupyter notebook. It can be installed by 
 
 ## Algorithm:
 
+The dataset can be dealt with various models. Here I am using the KNN Classifier and the and Support Vector Machine to predict the data and compare them.  
+
 ### KNN Classifier:
 
 K-nearest neighbor algorithm (K-NN) is a non-parametric method used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether K-NN is used for classification or regression. 
