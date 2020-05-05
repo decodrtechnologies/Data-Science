@@ -48,6 +48,4 @@ The dataset is under following licence - https://www.usa.gov/government-works/
 
 ## Source
 This dataset is sourced from - https://www.kaggle.com/divyansh22/flight-delay-prediction/       
-Reference -
-* https://www.kaggle.com/divyansh22/flight-delay-prediction 
-* https://www.kaggle.com/jintolonappan/gbm-tf2-boostedtreesclassifier-export-to-serve
+Reference - https://www.kaggle.com/jintolonappan/gbm-tf2-boostedtreesclassifier-export-to-serve
