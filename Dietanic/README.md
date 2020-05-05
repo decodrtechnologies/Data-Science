@@ -60,6 +60,10 @@ Cross-validation is a resampling procedure used to evaluate machine learning mod
 
 # License:
 
+Link: 
+https://www.kaggle.com/rashigoel/titanic-machine-learning-from-disaster
+https://creativecommons.org/publicdomain/zero/1.0/
+
 ## NO COPYRIGHT
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his 
