@@ -30,8 +30,7 @@ Download dataset - https://www.kaggle.com/divyansh22/flight-delay-prediction/dow
 * Numpy
 * Pandas
 * Seaborn
-* Matplotlib
-* sklearn
+* Tensorflow
 
 ## Steps involved
 1. Importing relevant python Libraries
