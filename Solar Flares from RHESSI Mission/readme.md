@@ -3,7 +3,8 @@
 ## Background:
 
 A solar flare is a sudden flash of increased brightness on the Sun, usually observed near its surface and a sunspot group. Powerful flares are often, but not always, accompanied by a coronal mass ejection. Even the most powerful flares are barely detectable in the total solar irradiance. RHESSI's  (Reuven Ramaty High Energy Solar Spectroscopic Imager) s a NASA solar flare observatory. Its primary mission is to explore the basic physics of particle acceleration and explosive energy release in solar flares. You can learn more about the RHESSI through this [link](https://hesperia.gsfc.nasa.gov/hessi/objectives.htm).
-In this project, we'll be obersving the data available through the Solar Flares from the RHESSI dataset available on Kaggle. 
+
+In this project, we'll be observing the data available through the Solar Flares from the RHESSI dataset available on Kaggle. 
  
 ## Dataset Description:
 
