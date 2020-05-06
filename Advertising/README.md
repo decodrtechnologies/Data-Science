@@ -37,8 +37,8 @@ Simple Linear Regression
 # License:
 
 Links:
-https://creativecommons.org/publicdomain/zero/1.0/
-https://www.kaggle.com/ishaanv/ISLR-Auto
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://www.kaggle.com/ishaanv/ISLR-Auto
 
 **No Copyright**
 
