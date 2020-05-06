@@ -35,6 +35,10 @@ The dataset other than number of people counts also contains information about t
 - **matplotlib**
 - **sklearn**
 
+## Data Processing : 
+- **OneHotEncoding**
+- **Feature Scaling**
+
 ## Exploratory Data Analysis :
 
      - Uni-Variate Analysis : Histograms , Distribution plot
