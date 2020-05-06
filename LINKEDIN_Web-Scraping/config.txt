@@ -1,0 +1,5 @@
+Remove this line and enter your linkedin registered email in its place
+Remove this line and enter the linkedin password in its place
+
+After making the changes, save this file and place the 
+jupyter notebook, config.txt and chromedriver.exe files in the same directory
