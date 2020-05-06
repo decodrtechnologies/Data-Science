@@ -3,7 +3,7 @@ LinkedIn Web Scraping
 
 **Project:**
 
-    :In this project, we will explore how, tonnes of data can be extracted from  websites and can be used to create datsets,
+     In this project, we will explore how, tonnes of data can be extracted from  websites and can be used to create datsets,
      use in Analytics and Data Science, we perform the following today:
       -Searching for data on LinkedIn using appropriate keywords or hashtag.
       -Use Selenium web drivers to perform various actions in order to load the required page.
