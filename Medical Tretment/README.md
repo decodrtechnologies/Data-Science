@@ -1,4 +1,4 @@
-# Medical Treatment : Personalized Medicine: Redefining Cancer Treatment
+# Medical Treatment : Personalized Medicine - Redefining Cancer Treatment
 
 ## Description
 
