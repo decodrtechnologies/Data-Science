@@ -37,6 +37,7 @@
 * [Dataset](#Dataset)
   * [Context](#context)
   * [Organization](#Organization)
+  * [Data](#data)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -47,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  In this project, we'll be identifying the documents and classifing them into one of the 20 available classes. The main task will be to load the dataset, remove stopwords and identify most occuring words per class and later doing for test set predict the class of document. We will later use this trained model to classify  manually entered sentences that belong to those 20 classes.
+  In this project, we'll be identifying the documents and classifing them into one of the 20 available classes. The main task will be to load the dataset, remove stopwords and identify most occuring words per class and later for test set predict the class of document. We will later use this trained model to classify  manually entered sentences that belong to those 20 classes.
 
 ### Built With
 The entire coding part is done using:
@@ -95,23 +96,28 @@ The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup doc
 
 The data is organized into 20 different newsgroups, each corresponding to a different topic. Some of the newsgroups are very closely related to each other (e.g. comp.sys.ibm.pc.hardware / comp.sys.mac.hardware), while others are highly unrelated (e.g misc.forsale / soc.religion.christian). Here is a list of the 20 newsgroups, partitioned (more or less) according to subject matter:
 
-comp.graphics
-comp.os.ms-windows.misc
-comp.sys.ibm.pc.hardware
-comp.sys.mac.hardware
-comp.windows.x 	rec.autos
-rec.motorcycles
-rec.sport.baseball
-rec.sport.hockey 	sci.crypt
-sci.electronics
-sci.med
-sci.space
-misc.forsale 	talk.politics.misc
-talk.politics.guns
-talk.politics.mideast 	talk.religion.misc
-alt.atheism
-soc.religion.christian
-Data
+  comp.graphics<br>
+  comp.os.ms-windows.misc<br>
+  comp.sys.ibm.pc.hardware<br>
+  comp.sys.mac.hardware<br>
+  comp.windows.x<br>
+  rec.autos<br>
+  rec.motorcycles<br>
+  rec.sport.baseball<br>
+  rec.sport.hockey<br>
+  sci.crypt<br>
+  sci.electronics<br>
+  sci.med<br>
+  sci.space<br>
+  misc.forsale<br>
+  talk.politics.misc<br>
+  talk.politics.guns<br>
+  talk.politics.mideast<br>
+  talk.religion.misc<br>
+  alt.atheism<br>
+  soc.religion.christian<br>
+
+### Data
 
 The data available <a href = "http://qwone.com/~jason/20Newsgroups/">here</a> are in .tar.gz bundles. You will need tar and gunzip to open them. Each subdirectory in the bundle represents a newsgroup; each file in a subdirectory is the text of some newsgroup document that was posted to that newsgroup.
 
@@ -156,12 +162,12 @@ Dataset used in the problem is available open source on <a href = "http://archiv
 
 <!-- CONTACT -->
 ## Dataset Owner
-
-Tom Mitchell
-School of Computer Science
-Carnegie Mellon University
-tom.mitchell '@' cmu.edu
-http://www.cs.cmu.edu/~tom/
+<br>
+Tom Mitchell<br>
+School of Computer Science<br>
+Carnegie Mellon University<br>
+tom.mitchell '@' cmu.edu<br>
+http://www.cs.cmu.edu/~tom/<br>
 
 
 
