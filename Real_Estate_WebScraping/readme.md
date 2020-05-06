@@ -9,7 +9,7 @@ The 70 % time of a Data Scientist goes into collecting and cleaning the Data. Ti
 
 ---
 
-**Web Scrraping is a technique to scrape the data present of the web.** 
+**Web Scrraping is a technique to scrape the data present on the web.** 
 
 
 We will be scraping the real estate data from **Makaan.com**  for the 
