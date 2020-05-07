@@ -1,4 +1,4 @@
-# PCA for Logistic Regression
+# Logistic Regression using PCA
 
 **Principal Component Analysis** is an important **dimensionality reduction technique** that can be used to reduce a larger set of feature variables into a smaller set that still contains most of the variance in the larger set.
 ## Problem Description : 
@@ -6,7 +6,7 @@
 Our aim is to create a model that can predict whether a person's income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
 
-## Understanding our Dataset :
+## About our Dataset :
 We will be using a [Adult Data Set](https://archive.ics.uci.edu/ml/datasets/Adult) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/).
 Extraction was done by Barry Becker from the 1994 Census database.
   
