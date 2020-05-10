@@ -22,7 +22,13 @@ This dataset is a record of every building or building unit (apartment, etc.) so
 
 # Content
 
-This dataset contains the location, address, type, sale price, and sale date of building units sold. A reference on the trickier fields:
+This dataset contains the location, address, type, sale price, and sale date of building units sold.
+ * Location: a code for the place in New York the the property was located in.
+ * Address : Combination of borough, block and lot as a unique key for property in New York City.
+ * Type: Tye type of building.
+ * Sale Date
+
+A reference on the trickier fields:
 
  * BOROUGH: A digit code for the borough the property is located in; in order these are Manhattan (1), Bronx (2), Brooklyn (3), Queens (4), and Staten Island (5).
  * BLOCK; LOT: The combination of borough, block, and lot forms a unique key for property in New York City. Commonly called a BBL.
