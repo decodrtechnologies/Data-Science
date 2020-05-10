@@ -23,9 +23,11 @@ This dataset is a record of every building or building unit (apartment, etc.) so
 # Content
 
 This dataset contains the location, address, type, sale price, and sale date of building units sold.
+
  * Location: a code for the place in New York the the property was located in.
  * Address : Combination of borough, block and lot as a unique key for property in New York City.
  * Type: Tye type of building.
+ * Sale Price 
  * Sale Date
 
 A reference on the trickier fields:
