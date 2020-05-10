@@ -16,6 +16,9 @@ The prediction can be used for calculating the forces sent to the incident and d
     #  Outlier treatment  
     #  Preparing the data for modelling  
     #  Linear Regression 
+## Source  
+https://archive.ics.uci.edu/ml/datasets/Forest+Fires  
+
 ## License 
 This dataset is public available for research.
 Source:  
