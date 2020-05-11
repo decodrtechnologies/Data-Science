@@ -36,5 +36,6 @@ Note: The goal for most regression evaluation metrics is to minimize the error. 
   - ipython notebook 02 - Data-Pre-Processing-EDA-Visualization-Model-Buliding.ipynb
 
 <h2>Licence/Source</h2>
-- https://www.kaggle.com/c/bluebook-for-bulldozers/data
-- https://bigml.com/user/francisco/gallery/dataset/51185a1c3b56352c7300055b
+  - https://www.kaggle.com/c/bluebook-for-bulldozers/data
+
+  - https://bigml.com/user/francisco/gallery/dataset/51185a1c3b56352c7300055b
