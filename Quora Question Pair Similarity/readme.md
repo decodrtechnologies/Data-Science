@@ -52,6 +52,9 @@ This empowers people to learn from each other and to better understand the world
   
 <h2>Machine Leaning Problem Type</h2>
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
+
+<h2>Licence</h2>
+- Link : https://www.kaggle.com/quora/question-pairs-dataset
   
 <h1>Install</h1>
 - Supported Python version
