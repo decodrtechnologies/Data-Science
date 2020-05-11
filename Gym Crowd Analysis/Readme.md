@@ -56,7 +56,3 @@ The dataset other than number of people counts also contains information about t
 ## Conclusion :
 
 Based on different model performance, best model is chosen 
-
-## Contact : 
-
-**Kushagra Thakral** : `kthakral@ch.iitr.ac.in`
