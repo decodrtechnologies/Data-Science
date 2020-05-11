@@ -123,7 +123,3 @@ Hyperparamters are trained with the help of graphs and GridSearch to give an ide
 ## Conclusion : 
 
 All models are analysed and the best one is picked out
-
-## Contact : 
-
-   **Kushagra Thakral** : `kthakral@ch.iitr.ac.in`
