@@ -77,6 +77,3 @@ and I encountered it in 'Hands-On Machine learning with Scikit-Learn and TensorF
 Aurélien Géron wrote:
 This dataset is a modified version of the California Housing dataset available from:
 [Luís Torgo's](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) page (University of Porto)
-
-## Contact : 
-**Kushagra Thakral** : `kthakral@ch.iitr.ac.in`

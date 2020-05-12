@@ -75,12 +75,10 @@ This is an opensource dataset which can be found on UCI Repository.
 
 **Citation**
 
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-
-@misc{Dua:2019 ,
-author = "Dua, Dheeru and Graff, Casey",<br>
-year = "2017",<br>
-title = "{UCI} Machine Learning Repository",<br>
-url = "http://archive.ics.uci.edu/ml",<br>
-institution = "University of California, Irvine, School of Information and Computer Sciences" }
+    @misc{Dua:2019 ,
+    author = "Dua, Dheeru and Graff, Casey",<br>
+    year = "2017",<br>
+    title = "{UCI} Machine Learning Repository",<br>
+    url = "http://archive.ics.uci.edu/ml",<br>
+    institution = "University of California, Irvine, School of Information and Computer Sciences" }
 

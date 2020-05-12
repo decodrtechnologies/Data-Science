@@ -52,12 +52,12 @@ This empowers people to learn from each other and to better understand the world
   
 <h2>Machine Leaning Problem Type</h2>
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
-  
-<h1>Install</h1>
+
+<h2>Install</h2>
 - Supported Python version
     - Python version used in this Project : 3.5+
 
-<h1>Run</h1>
+<h2>Run</h2>
     - To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook). 
     
     - After making sure you have that, you can run from a terminal or cmd next lines :
@@ -66,3 +66,5 @@ It is a binary classification problem, for a given pair of questions we need to 
     - Word-To-Vectors.ipynb
     - Machine Learning Models .ipynb
   
+<h2>Licence</h2>
+  - Link : https://www.kaggle.com/quora/question-pairs-dataset

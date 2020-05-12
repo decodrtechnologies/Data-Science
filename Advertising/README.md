@@ -6,7 +6,7 @@ Build a model which predicts sales based on the money spent on different platfor
 
 # Data
 
-The dataset consists of 4 columns namely 'TV','Radio','Newspaper','Sales'. In this notebook, I will address the business problem by finding out the most profitable mode of marketing.
+The dataset consists of 4 columns namely 'TV','Radio','Newspaper','Sales'. In this notebook,the business problem is addressed by finding out the most profitable mode of marketing.
 
 
 # Link to the dataset:

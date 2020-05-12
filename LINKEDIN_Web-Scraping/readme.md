@@ -45,7 +45,7 @@ Libraries used
     
 Contact
 ----------------------------------
-    Project Link-  https://github.com/decodrtechnologies/Data-Science/tree/master/Aviation%20Accident%20Analysis
+    Project Link-  https://github.com/decodrtechnologies/Data-Science/tree/master/LINKEDIN_Web-Scraping
 
 Run
 ------------------------------
