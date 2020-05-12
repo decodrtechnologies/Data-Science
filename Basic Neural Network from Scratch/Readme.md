@@ -8,7 +8,7 @@ To understand and build a basic one hidden layer Neutral Network from scratch.
 
 ## Neural Network : 
 
-The input `X` has two attributes `X1` and `X2` , the input is passed through one hidden layer with $tanh$ activation function and then to the output node with softmax activation to give out the probabilities. Cross entropy loss function works well with softmax activation and thus is used here. 
+The input `X` has two attributes `X1` and `X2` , the input is passed through one hidden layer with Tanh activation function and then to the output node with softmax activation to give out the probabilities. Cross entropy loss function works well with softmax activation and thus is used here. 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQediZV_J9oWckQU6SMM1bwIJUF05pYb3QJQQhJ3t3YoFcax5Ve&usqp=CAU">
 
