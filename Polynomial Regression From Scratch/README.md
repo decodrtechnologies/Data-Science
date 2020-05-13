@@ -34,9 +34,12 @@ Hence through Least Square technique, let’s compute the response value that is
 The main aim to this project is to how to implement Polynomial Regression From Scratch. Here i have took example of A person approaches with a job application towards HR team. At the time of Salary negotition the applicant demands some amount for assigned job. Then the HR team look up at his past data and using this algorithm can predict his actual value and guess wether the person is saying Truth or Bluffing.
 
 <h3>Install</h3>
+
 - Supported Python version - Python version used in this Project : 3.5+
 
 <h3>Run</h3>
+ 
  - To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook)
+  
   - After making sure you have that, you can run from a terminal or cmd next lines
   - ipython notebook Poly_Reg_Test.ipynb
