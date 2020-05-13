@@ -38,5 +38,5 @@ The main aim to this project is to how to implement Polynomial Regression From S
 
 <h3>Run</h3>
  - To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook)
- - After making sure you have that, you can run from a terminal or cmd next lines
- - ipython notebook Poly_Reg_Test.ipynb
+  - After making sure you have that, you can run from a terminal or cmd next lines
+  - ipython notebook Poly_Reg_Test.ipynb
