@@ -54,4 +54,4 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <br>
-Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science)
+Project Link: https://github.com/decodrtechnologies/Data-Science
