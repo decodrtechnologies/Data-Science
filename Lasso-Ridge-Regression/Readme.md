@@ -23,12 +23,12 @@ Though Ridge and Lasso might appear to work towards a common goal, the inherent 
 
 Ridge Regression:<br>
 
-        Performs L2 regularization, i.e. adds penalty equivalent to square of the magnitude of coefficients<br>
-        Minimization objective = LS Obj + α * (sum of square of coefficients)<br>
+        Performs L2 regularization, i.e. adds penalty equivalent to square of the magnitude of coefficients
+        Minimization objective = LS Obj + α * (sum of square of coefficients)
 Lasso Regression:<br>
 
-        Performs L1 regularization, i.e. adds penalty equivalent to absolute value of the magnitude of coefficients<br>
-        Minimization objective = LS Obj + α * (sum of absolute value of coefficients)<br>
+        Performs L1 regularization, i.e. adds penalty equivalent to absolute value of the magnitude of coefficients
+        Minimization objective = LS Obj + α * (sum of absolute value of coefficients)
 
 Note that here ‘LS Obj’ refers to ‘least squares objective’, i.e. the linear regression objective without regularization.
 
