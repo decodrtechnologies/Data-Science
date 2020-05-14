@@ -3,7 +3,8 @@ In machine learning, support-vector machines are supervised learning models with
 learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked 
 as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category
 or the other, making it a non-probabilistic binary linear classifier.
-[](https://github.com/decodrtechnologies/Data-Science/blob/master/Support_Vector_Machine/svm.PNG)
+
+![](https://github.com/decodrtechnologies/Data-Science/blob/master/Support_Vector_Machine/svm.PNG)
  
  1. About SVM (General required for algo)
 	* For all xi in training Data:
