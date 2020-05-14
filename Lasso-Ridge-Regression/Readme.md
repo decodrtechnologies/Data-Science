@@ -21,12 +21,12 @@ Large enough to cause computational challenges. With modern systems, this situat
 
 Though Ridge and Lasso might appear to work towards a common goal, the inherent properties and practical use cases differ substantially. If you’ve heard of them before, you must know that they work by penalizing the magnitude of coefficients of features along with minimizing the error between predicted and actual observations. These are called ‘regularization’ techniques. The key difference is in how they assign penalty to the coefficients:
 
-Ridge Regression:
-        Performs L2 regularization, i.e. adds penalty equivalent to square of the magnitude of coefficients
-        Minimization objective = LS Obj + α * (sum of square of coefficients)
-Lasso Regression:
-        Performs L1 regularization, i.e. adds penalty equivalent to absolute value of the magnitude of coefficients
-        Minimization objective = LS Obj + α * (sum of absolute value of coefficients)
+Ridge Regression:<br>
+        Performs L2 regularization, i.e. adds penalty equivalent to square of the magnitude of coefficients<br>
+        Minimization objective = LS Obj + α * (sum of square of coefficients)<br>
+Lasso Regression:<br>
+        Performs L1 regularization, i.e. adds penalty equivalent to absolute value of the magnitude of coefficients<br>
+        Minimization objective = LS Obj + α * (sum of absolute value of coefficients)<br>
 
 Note that here ‘LS Obj’ refers to ‘least squares objective’, i.e. the linear regression objective without regularization.
 
@@ -51,5 +51,5 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+<br>
 Project Link: [https://github.com/decodrtechnologies/Data-Science](https://github.com/decodrtechnologies/Data-Science)
