@@ -86,7 +86,7 @@ Libraries used
 License
 --------------------------------
     The dataset is covered by the following license: Open Database License (ODbL) v1.0
-    (https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq)
+    https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq
     
 Contact
 ----------------------------------
