@@ -1,4 +1,4 @@
-# Natural Language Processing For Everyone
+# Natural Language Processing
 
 The rise of online social platforms has resulted in an explosion of written text in the form of blogs, posts, tweets, wiki pages, and more. This new wealth of data provides a unique opportunity to explore natural language in its many forms, both as a way of automatically extracting information from written text and as a way of artificially producing text that looks natural.
 
