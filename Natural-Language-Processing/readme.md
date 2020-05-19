@@ -4,7 +4,7 @@ The rise of online social platforms has resulted in an explosion of written text
 
 ![alt text](https://chandanbp.github.io/img/portfolio/nlp.png "Logo Cover")
 
-The following topic are covered in the notebook.
+The following topics are covered in the notebook.
 ## Content
 - Represent words and numbers
 - Use One-Hot Encoding
