@@ -18,3 +18,17 @@ STEPS INVOLVED
   1. Go for NLP-Template.ipynb to work on this project.
   2. The implementation is in NLP.ipynb, i.e solution.
   3. Data is availible in the Data sirectory.
+
+Install
+-------------------------------
+    Supported Python version
+        -Python version used in this Project:3.5+
+
+Libraries used
+------------------------------
+    Pandas
+    Matplotlib
+    Numpy
+    Collections
+    String
+    Gzip
