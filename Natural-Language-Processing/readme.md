@@ -43,6 +43,6 @@ Run
     To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
 
     To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
-    ipython notebook NLP - Template.ipynb
+     - ipython notebook NLP-Template.ipynb
     
     Goodluck!    
