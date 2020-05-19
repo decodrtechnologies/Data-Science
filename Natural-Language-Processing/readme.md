@@ -33,9 +33,16 @@ Libraries used
     String
     Gzip
  
- Contact
+Contact
 ----------------------------------
     Project Link- https://github.com/decodrtechnologies/Data-Science
     Notebook Link - https://github.com/decodrtechnologies/Data-Science/blob/master/Natural-Language-Processing/NLP%20-%20Template.ipynb
     
+Run
+------------------------------
+    To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
+
+    To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
+    ipython notebook NLP - Template.ipynb
     
+    Goodluck!    
