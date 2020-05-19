@@ -44,5 +44,6 @@ Run
 
     To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
      - ipython notebook NLP-Template.ipynb
-    
-    Goodluck!    
+
+
+Goodluck!    
