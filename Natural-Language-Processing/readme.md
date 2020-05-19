@@ -12,3 +12,9 @@ The following topic are covered in the notebook.
 - Apply stopwords
 - Understand TF/IDF
 - Understand Stemming
+
+STEPS INVOLVED
+-------------------------------
+  1. Go for NLP-Template.ipynb to work on this project.
+  2. The implementation is in NLP.ipynb, i.e solution.
+  3. Data is availible in the Data sirectory.
