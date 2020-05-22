@@ -4,7 +4,7 @@
 
 Cryotherapy is a pain treatment that uses a method of localized freezing temperatures to deaden an irritated nerve. Cryotherapy is also used as a method of treating localized areas of some cancers (called cryosurgery), such as prostate cancer and to treat abnormal skin cells by dermatologists.
 
-In this project, we'll be observing the data available through the Cryotherapy dataset available on Kaggle. 
+In this project, we'll be observing the data available through the Cryotherapy dataset available on Kaggle and analyse about its result of treatment.
  
 ## Dataset Description:
 
