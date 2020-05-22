@@ -33,6 +33,8 @@ To understand and implement sampling techniques like :
 - Random UnderSampling
 - Random OverSampling 
 
+<img src="https://storage.ning.com/topology/rest/1.0/file/get/2808331754?profile=original">
+
 ## Libraries Used : 
 - Numpy
 - Pandas
