@@ -68,4 +68,4 @@ Validation
 
 ## License:
 
-The Cryotherapy dataset used in the problem is available open-source on Kaggle and the license is available at this[link](https://creativecommons.org/publicdomain/zero/1.0/)
+The Cryotherapy dataset used in the problem is available open-source on Kaggle and the license is available at this [link](https://creativecommons.org/publicdomain/zero/1.0/)
