@@ -19,4 +19,4 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 # Acknowledgements:
 
-More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at http://yann.lecun.com/exdb/mnist/index.html. The dataset is made available under a Creative Commons Attribution-Share Alike 3.0 license.
+More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at [Yann Lecun](http://yann.lecun.com/exdb/mnist/index.html). The dataset is made available under a Creative Commons Attribution-Share Alike 3.0 [license](https://creativecommons.org/licenses/by-sa/3.0/).
