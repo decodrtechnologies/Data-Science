@@ -27,13 +27,13 @@ In this notebook : Dataset would be classified based on only two categories , wh
 
 ## Objective : 
 
+<img src="https://miro.medium.com/max/725/0*49LgGsY4l09sNwcR.png">
+
 To understand and implement sampling techniques like : 
 - Random Sampling
 - Stratified Sampling 
 - Random UnderSampling
 - Random OverSampling 
-
-<img src="https://miro.medium.com/max/725/0*49LgGsY4l09sNwcR.png">
 
 ## Libraries Used : 
 - Numpy
