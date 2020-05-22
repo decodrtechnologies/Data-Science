@@ -4,7 +4,7 @@
 
 E Coli Escherichia coli, also known as E. coli, is a Gram-negative, facultative anaerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms.
 
-In this project, we'll be observing the data available through the E Coli dataset available on Kaggle. 
+In this project, we'll be observing the data available through the E Coli dataset available on Kaggle and predicting the sites where its available. 
  
 ## Dataset Description:
 
@@ -64,7 +64,7 @@ The entire coding is done by using the jupyter notebook. It can be installed by 
 
 ## Algorithm:
 
-The dataset can be dealt with various models. Here I am using the KNN Classifier and the and Support Vector Machine to predict the data and compare them.  
+The dataset can be dealt with various models. Here I am using the KNN Classifier and the and Support Vector Machine to predict the sites where its available and compare the analysis between both the alogorithms.  
 
 ### KNN Classifier:
 
