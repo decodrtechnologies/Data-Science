@@ -4,7 +4,7 @@
 
 E Coli Escherichia coli, also known as E. coli, is a Gram-negative, facultative anaerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms.
 
-In this project, we'll be observing the data available through the E Coli dataset available on Kaggle. 
+In this project, we'll be observing the data available through the E Coli dataset available on Kaggle and predicting the sites where its available. 
  
 ## Dataset Description:
 
@@ -12,23 +12,39 @@ The dataset has 336 entries with 9 columns. The dataset is obtained from [Kaggle
 
 ## Attribute Description:
 
-SEQUENCE_NAME
+SEQUENCE_NAME - Accession number for the SWISS-PROT database
 
-MCG
+MCG -  McGeoch's method for signal sequence recognition.
 
-GVH
+GVH  - Von Heijne's method for signal sequence recognition.
 
-LIP
+LIP  - Von Heijne's Signal Peptidase II consensus sequence score. Binary attribute
 
-CHG
+CHG  - Presence of charge on N-terminus of predicted lipoproteins. Binary attribute
 
-AAC
+AAC  - Score of discriminant analysis of the amino acid content of outer membrane and periplasmic proteins.
 
-ALM1
+ALM1 - Score of the ALOM membrane spanning region prediction program.
 
-ALM2
+ALM2 - Score of ALOM program after excluding putative cleavable signal regions from the sequence
 
-SITE
+SITE - Its the class distribution. The class is the localization site. The parameters in the SITE are, 
+
+  1. cp  (cytoplasm)                                   
+  
+  2. im  (inner membrane without signal sequence)                     
+  
+  3. pp  (perisplasm)                                    
+  
+  4. imU (inner membrane, uncleavable signal sequence)  
+  
+  5. om  (outer membrane)                               
+  
+  6. omL (outer membrane lipoprotein)                     
+  
+  7. imL (inner membrane lipoprotein)                     
+  
+  8. imS (inner membrane, cleavable signal sequence)      
 
 ## Libraries Used:
 
@@ -48,7 +64,7 @@ The entire coding is done by using the jupyter notebook. It can be installed by 
 
 ## Algorithm:
 
-The dataset can be dealt with various models. Here I am using the KNN Classifier and the and Support Vector Machine to predict the data and compare them.  
+The dataset can be dealt with various models. Here I am using the KNN Classifier and the and Support Vector Machine to predict the sites where its available and compare the analysis between both the alogorithms.  
 
 ### KNN Classifier:
 
