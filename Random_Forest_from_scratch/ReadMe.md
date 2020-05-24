@@ -81,6 +81,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 4. Data Preprocessing
 5. Model Building
 > * RANDOM FOREST MODEL
+> * Size of Testing dataset : Size of Training dataset = 20 : 80
 6. Evaluation
 7. Conclusion
 
