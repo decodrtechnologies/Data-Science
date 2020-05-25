@@ -11,8 +11,17 @@ Predicting the age of abalone from physical measurements. The age of abalone is 
 - Importing Libraries
 - Importing the Dataset
 - Exploratory Data Analysis
-> * Univariate Analysis
-> * Bivariate Analysis
+* Univariate Analysis
+    * Decribe data to get insights about data distribution,numerical and categorial attributes
+    * Plot Attribute Histograms
+    * Check the Skewness degree for each attribute
+    * plot count plots , swarm plots
+    * Inference
+
+* Multivariate Analysis
+    * Pairplot
+    * heatmaps
+
 - Data preprocessing 
 > * Outlier Handling
 > * Feature Selection and Standardization
