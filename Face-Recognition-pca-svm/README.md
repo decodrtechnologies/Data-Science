@@ -57,4 +57,10 @@ Dimensionality  | 5828
 - SVM
 
 ## License & Reference:
-The original dataset can be refered from **www.cs.umass.edu/lfw/** and here it is only used as a part of algorithm understanding and experimentation.
+The original dataset can be refered from **www.cs.umass.edu/lfw/** 
+```
+Source:
+Gary B. Huang, Manu Ramesh, Tamara Berg, and Erik Learned-Miller.
+Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments.
+University of Massachusetts, Amherst, Technical Report 07-49, October, 2007.
+```
