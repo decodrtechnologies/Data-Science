@@ -65,6 +65,4 @@ It is a binary classification problem, for a given pair of questions we need to 
     - ipython notebook Data-Pre-Processing-EDA-Visualization.ipynb
     - Word-To-Vectors.ipynb
     - Machine Learning Models .ipynb
-  
-<h2>Licence</h2>
-  - Link : 
+ 
