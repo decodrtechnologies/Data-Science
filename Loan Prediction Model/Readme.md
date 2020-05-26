@@ -13,16 +13,16 @@ This Dataset has 13 columns and 614 instances
 ## Attribute Information:
 * Loan_ID: (String Data Type) Contains a unique ID for each loan application 
 * Gender: (String Data Type) Contains three values –> Male, Female and Other 
-* Married: (Boolean Data Type) Contains two values –> True & False
+* Married: (Boolean Data Type) Contains two values –> Yes & No
 * Dependents: (String Data Type) Indicates number of dependents depending upon that applicant
 * Education: (String Data Type) Contains two values –> Graduate & Not Graduate
-* Self_Employed: (Boolean Data Type) Contains two values –> True & False
+* Self_Employed: (Boolean Data Type) Contains two values –> Yes & No
 * ApplicantIncome: (Integer Data Type) Specifies applicant income in ‘000
 * CoapplicantIncome: (Integer Data Type) Specifies co-applicant income in ‘000
 * LoanAmount: (Integer Data Type) Signifies total amount that has been taken as loan
 * Loan_Amount_Term: (Integer Data Type) Specifies total term of the loan
 * Credit_History: (Integer Data Type) Contains two values –> 0 (No Credit History) & 1 (Having Credit History)
-* Property_Area: (String Data Type) Contains three values –> Semiurban, Urban & Others
+* Property_Area: (String Data Type) Contains three values –> Semiurban, Urban & Rural
 * Loan_Status: (Boolean Data Type) Contains two values –> True & False
 ## Libraries Used:
 * Pandas
