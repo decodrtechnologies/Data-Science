@@ -67,4 +67,4 @@ It is a binary classification problem, for a given pair of questions we need to 
     - Machine Learning Models .ipynb
   
 <h2>Licence</h2>
-  - Link : https://www.kaggle.com/quora/question-pairs-dataset
+  - Link : 
