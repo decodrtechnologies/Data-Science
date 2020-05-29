@@ -10,8 +10,11 @@ So we will generate 1000 single featue data points and add some noise to it. The
 The basic concepts required for this project are explained in the notebook itself. But if you are interested in more mathematics behind it then you can refer to the below given links-
 
 *http://www.dbs.ifi.lmu.de/Lehre/MaschLernen/SS2016/Skript/BasisFunctions2016.pdf
+
 *https://tvml.github.io/ml1819/slides/regression.pdf
+
 *https://stats.stackexchange.com/questions/117556/understanding-gaussian-basis-function-parameters-to-be-used-in-linear-regression
+
 *https://www.analyticsvidhya.com/blog/2019/10/gaussian-mixture-models-clustering/
 
 # Libraries Used:
