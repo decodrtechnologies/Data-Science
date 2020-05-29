@@ -19,7 +19,7 @@
   - All data file sources available on : https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
   
 ## Install
-  - Supported Python version - Python version used in this Project : 3.5+
+  - Supported Python version - Python version used in this Project : 3.5+ 
   
 ## Run
 - To run this project use - Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
