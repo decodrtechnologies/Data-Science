@@ -60,7 +60,8 @@ Sim(C1,C2) = Min Sim(Pi,Pj) such that Pi ∈ C1 & Pj ∈ C2
 #### MAX
 Also known as the complete linkage algorithm, this is exactly opposite to the MIN approach. The similarity of two clusters C1 and C2 is equal to the maximum of the similarity between points Pi and Pj such that Pi belongs to C1 and Pj belongs to C2.
 
-Mathematically this can be written as,
+Mathematically this can be written as,  
+  
 Sim(C1,C2) = Max Sim(Pi,Pj) such that Pi ∈ C1 & Pj ∈ C2  
 
 ![max](https://miro.medium.com/max/982/1*nRYZyjoT1ZRzlWp3oP0_QQ.jpeg)  
