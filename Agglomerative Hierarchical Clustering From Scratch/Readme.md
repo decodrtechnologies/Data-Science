@@ -26,11 +26,12 @@ The basic algorithm of Agglomerative is straight forward.
 Key operation is the computation of the proximity of two clusters.  
   
   
-
+##### Understanding Agglomerative Hierarchical clustering Technique through an example
 Say we have six data points {A,B,C,D,E,F}.
 
 Step- 1: In the initial step, we calculate the proximity of individual points and consider all the six data points as individual clusters as shown in the image below.  
 ![image](https://miro.medium.com/max/848/1*3pMZjFiiaaLcfSZBKDjbXA.png)  
+
 Step- 2: In step two, similar clusters are merged together and formed as a single cluster. Let’s consider B,C, and D,E are similar clusters that are merged in step two. Now, we’re left with four clusters which are A, BC, DE, F.  
 
 Step- 3: We again calculate the proximity of new clusters and merge the similar clusters to form new clusters A, BC, DEF.  
@@ -39,7 +40,7 @@ Step- 4: Calculate the proximity of the new clusters. The clusters DEF and BC ar
 
 Step- 5: Finally, all the clusters are merged together and form a single cluster.  
   
-The Hierarchical clustering Technique can be visualized using a Dendrogram.A Dendrogram is a tree-like diagram that records the sequences of merges or splits.
+The Hierarchical clustering Technique can be visualized using a Dendrogram.A Dendrogram is a tree-like diagram that records the sequences of merges or splits.  
 ![Dendogram](https://miro.medium.com/max/1000/1*JPQRbJDw2E1_HEvwzVTDDw.jpeg)  
 
 
@@ -60,8 +61,8 @@ Sim(C1,C2) = Min Sim(Pi,Pj) such that Pi ∈ C1 & Pj ∈ C2
 Also known as the complete linkage algorithm, this is exactly opposite to the MIN approach. The similarity of two clusters C1 and C2 is equal to the maximum of the similarity between points Pi and Pj such that Pi belongs to C1 and Pj belongs to C2.
 
 Mathematically this can be written as,
+Sim(C1,C2) = Max Sim(Pi,Pj) such that Pi ∈ C1 & Pj ∈ C2  
 
-Sim(C1,C2) = Max Sim(Pi,Pj) such that Pi ∈ C1 & Pj ∈ C2
 ![max](https://miro.medium.com/max/982/1*nRYZyjoT1ZRzlWp3oP0_QQ.jpeg)  
 
 #### Group Average   
@@ -76,7 +77,8 @@ where, Pi ∈ C1 & Pj ∈ C2
 
 
 #### Distance Between Centroids  
-Compute the centroids of two clusters C1 & C2 and take the similarity between the two centroids as the similarity between two clusters. This is a less popular technique in the real world.
+Compute the centroids of two clusters C1 & C2 and take the similarity between the two centroids as the similarity between two clusters. This is a less popular technique in the real world.  
+
 ![DBC](https://miro.medium.com/max/982/1*2AYd0CXANWsM8MLwmrJzYQ.jpeg)  
 
 #### Ward’s Method
