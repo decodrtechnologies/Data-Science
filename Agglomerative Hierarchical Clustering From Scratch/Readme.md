@@ -102,6 +102,6 @@ Time complexity = O(n³) where n is the number of data points.
 
 ### Limitations of Hierarchical clustering Technique:
 
-There is no mathematical objective for Hierarchical clustering.
-All the approaches to calculate the similarity between clusters has its own disadvantages.
+There is no mathematical objective for Hierarchical clustering.  
+All the approaches to calculate the similarity between clusters has its own disadvantages.  
 High space and time complexity for Hierarchical clustering. Hence this clustering algorithm cannot be used when we have huge data.
