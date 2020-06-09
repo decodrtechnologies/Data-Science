@@ -29,4 +29,25 @@ For each feature (term), a corresponding high χ2 score indicates that the null 
 - scipy
 
 ## Data:
-The template notebook contains the dummy data for practicing out the chisquare test feature selection.
+The dataset used is Iris Dataset.Based on the plant features , we need to predict the class of Iris plant.
+Attribute Information:
+1. sepal length in cm
+2. sepal width in cm
+3. petal length in cm
+4. petal width in cm
+5. class:
+-- Iris Setosa
+-- Iris Versicolour
+-- Iris Virginica
+# License & References:
+The dataset is originally available at <a href ="https://archive.ics.uci.edu/ml/datasets/iris">UCI REPOSITORY.</a>
+```
+Creator:
+
+R.A. Fisher
+
+Donor:
+
+Michael Marshall (MARSHALL%PLU '@' io.arc.nasa.gov)
+
+```
