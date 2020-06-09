@@ -10,6 +10,19 @@ Conditional probability is a measure of the probability of an event occurring gi
 P(A|B) = P(A ∩ B) / P(B)
 
 ## Dataset and lisence:
-- The original dataset can be acessed at <a href="https://www.kaggle.com/uciml/student-alcohol-consumption#student-mat.csv">KAGGLE</a>
 
-- License - Lisence of data is  <a href="https://creativecommons.org/publicdomain/zero/1.0/">here</a>
+Dataset consist of social, gender and study information about students and the data name is "Student Alcohol Consumption". 
+
+Citation
+
+```
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
+
+Fabio Pagnotta, Hossain Mohammad Amran.
+Email:fabio.pagnotta@studenti.unicam.it, mohammadamra.hossain '@' studenti.unicam.it
+University Of Camerino
+```
+
+- The data set is uploaded in github repository as "student-mat.csv" which will be used in this project.
+
+- License - License of data is  <a href="https://creativecommons.org/publicdomain/zero/1.0/">here</a>
